@@ -1,0 +1,6 @@
+The Impact on FOSS in archaeology:
+
+
+FOSS communities workaround meet archaeology
+
+If 10 years ago it seemmed largely irrelevant and out of scope to adopte FOSS the setting dramattacaly changed. Nowadays to address methodological and theoritical issues in archaeology, FOSS are attractive and promise an access to powerful toolboxes accompanied with a longlife sustainability. One of the byproduct of the use of FOSS in archaeology is the engagement in a completly free, informal and wider community, so-called FOSS community. Each software or specific package developp a community maintaning the software, providing advice, case example, advertising and developping new tools. Looking for help, reading form contributors or participating to the development of FOSS give acces for archaeologis other, less formal, scientifc worlds. Platforms like Wikipedia or Stackoverflow challenge scientific communication and reward principle drived by the traditional academic. In this paper, I adress how FOSS and FOSS communities provides a common language and goal through which foreign disciplines are (re)visited and same models are seen from different perspectives enriching and challenging amon other archaeological research.
