@@ -5,5 +5,9 @@ KEEP THE REVOLUTION GOING! http://caaconference.org/
 
 The repository of my on-going work for the CAA 2015.
 
-Some links for my abstract:
-- https://www.ocs.soton.ac.uk/index.php/CAA/2012/paper/view/710
+## Resources for my abstracts
+
+### Some links:
+  - [The scientific community: Diversity makes the difference](http://undsci.berkeley.edu/article/socialsideofscience_02)
+  - [Science: A community enterprise](http://undsci.berkeley.edu/article/socialsideofscience_03)
+  - [Humanitarian-FOSS](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
