@@ -4,7 +4,7 @@ caa2015
 KEEP THE REVOLUTION GOING! http://caaconference.org/
 
 
-Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge/doi/10.5072/zenodo.12748.png)](http://dx.doi.org/10.5072/zenodo.12748)
+Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12795.png)](http://dx.doi.org/10.5281/zenodo.12795)
 
 ## Contents:
 
