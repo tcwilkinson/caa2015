@@ -18,3 +18,4 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - [The scientific community: Diversity makes the difference](http://undsci.berkeley.edu/article/socialsideofscience_02)
   - [Science: A community enterprise](http://undsci.berkeley.edu/article/socialsideofscience_03)
   - [Humanitarian-FOSS](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
+  - [Der Wandel ist radikal](http://www.helmholtz.de/wissenschaft_und_gesellschaft/der-wandel-ist-radikal-3245/)
