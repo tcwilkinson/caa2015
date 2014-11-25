@@ -19,3 +19,5 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - [Science: A community enterprise](http://undsci.berkeley.edu/article/socialsideofscience_03)
   - [Humanitarian-FOSS](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
   - [Der Wandel ist radikal](http://www.helmholtz.de/wissenschaft_und_gesellschaft/der-wandel-ist-radikal-3245/)
+  - [IE Web Development Support Moving to Stack Overflow](https://social.msdn.microsoft.com/Forums/ie/en-US/8ba70824-dba2-4425-bc75-247c2c29bde1/ie-web-development-support-moving-to-stack-overflow?forum=iewebdevelopment)
+  - [State of the Commons](https://stateof.creativecommons.org/)
