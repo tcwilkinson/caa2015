@@ -22,3 +22,7 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - [IE Web Development Support Moving to Stack Overflow](https://social.msdn.microsoft.com/Forums/ie/en-US/8ba70824-dba2-4425-bc75-247c2c29bde1/ie-web-development-support-moving-to-stack-overflow?forum=iewebdevelopment)
   - [State of the Commons](https://stateof.creativecommons.org/)
   - [Revolution 'OS' in archeologia. Esempi di interfacce Web per l'archeologia del Paesaggio](http://www.cnr.it/istituti/ProdottoDellaRicerca.html?cds=098&id=142909)
+  - [Pfister, D.S. 2011 'Networked expertise in the era of many-to-many communication: on Wikipedia and invention', Social Epistemology 253, 217-31](http://dx.doi.org/10.1080/02691728.2011.578306)
+  - Bevan, A. 2012 'Value, authority and the open society. Some implications for digital and online archaeology' in C. Bonacchi (ed) Archaeology and Digital Communication: Towards Strategies of Public Engagement. London: Archetype, 1-14.
+  - Rowlands, I., Nicholas, D., Williams, P., Huntington, P., Fieldhouse, M., Gunter, B., Withey, R., Jamali, H.R., Dobrowolski, T. and Tenopir, C. 2008 'The Google generation: the information behaviour of the researcher of the future', Aslib Proceedings 604, 290-310. http://dx.doi.org/10.1108/00012530810887953
+  -  [Richardson, L-J. (2014). Understanding Archaeological Authority in a Digital Context, Internet Archaeology 38.](http://dx.doi.org/10.11141/ia.38.1)
