@@ -25,4 +25,6 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - [Pfister, D.S. 2011 'Networked expertise in the era of many-to-many communication: on Wikipedia and invention', Social Epistemology 253, 217-31](http://dx.doi.org/10.1080/02691728.2011.578306)
   - Bevan, A. 2012 'Value, authority and the open society. Some implications for digital and online archaeology' in C. Bonacchi (ed) Archaeology and Digital Communication: Towards Strategies of Public Engagement. London: Archetype, 1-14.
   - Rowlands, I., Nicholas, D., Williams, P., Huntington, P., Fieldhouse, M., Gunter, B., Withey, R., Jamali, H.R., Dobrowolski, T. and Tenopir, C. 2008 'The Google generation: the information behaviour of the researcher of the future', Aslib Proceedings 604, 290-310. http://dx.doi.org/10.1108/00012530810887953
-  -  [Richardson, L-J. (2014). Understanding Archaeological Authority in a Digital Context, Internet Archaeology 38.](http://dx.doi.org/10.11141/ia.38.1)
+  - [Richardson, L-J. (2014). Understanding Archaeological Authority in a Digital Context, Internet Archaeology 38.](http://dx.doi.org/10.11141/ia.38.1)
+  - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
+  - [How does software development compare with statistical programming/analysis?](http://stackoverflow.com/a/2296109/2759357)
