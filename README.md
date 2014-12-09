@@ -28,3 +28,4 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - [Richardson, L-J. (2014). Understanding Archaeological Authority in a Digital Context, Internet Archaeology 38.](http://dx.doi.org/10.11141/ia.38.1)
   - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
   - [How does software development compare with statistical programming/analysis?](http://stackoverflow.com/a/2296109/2759357)
+  - [Images of innovation in discourses of free and open source software](http://journals.uic.edu/ojs/index.php/fm/article/view/4210)
