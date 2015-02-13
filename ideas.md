@@ -10,16 +10,25 @@ Platforms like Wikipedia or Stack Overflow challenge scientific communication an
 
 
 Intro:
-1) Philosophie du logiciel libre et philosophy de la science (Free Science, C. Kelty)
-Use extende definition of Free Software. Introdcution of Recursive Public
+1) Philosophy of FOSS and philosophy of Science (Free Science, C. Kelty)
+Use extended definition of Free Software. Introdcution of Recursive Public
+ - Development of FOSS
+ -  Is there really no Influence in Archaology? Whole concept of sharing in there: yeah may be not only specific on archaeology
+ - Copyright and copyleft are challenging
 
 2) Role of community 
-Exchange, new ideas -> line of codes // articles | blogpost How To Do | Tutorials ...
+ - Exchange, new ideas -> line of codes // articles | blogpost How To Do | Tutorials ...
+ - Where we are lookgin for ideas to cope with big data
+ - Not easy to find friend to play with ...
 
-3) RMarkdown
-Today we are faced with a situation where publication has become trivial, but verification and the management"
+3) Examples
+   - R 
+Calcolatory: R 
+  - Wikipedia 
+  -QGIS will be one of this example
+(Graham and Mirko Novàk)
 LA communanauté qui définit et détermine la qualité
-Wikipedia (Graham and Mirko Novàk)
+Today we are faced with a situation where publication has become trivial, but verification and the management"
 
 4) What can Archaeology do for FOSS
 Philo of FOSS is to give back: aknowledge, promote and engage wit FOSS. Use Archaeology for FOSS.
@@ -31,37 +40,16 @@ Price of FOSS conference: is that real ??? 450 Euros ???
 
 
 
-
-
-
 The scientific community: Diversity makes the difference
 
-People from all over the world from all sorts of different cultures and backgrounds are a part of the scientific community. At some points in history, science has largely been the domain of white males, but that is simply no longer true. A glance at the authors on recent papers in top scientific journals confirms that diversity is now the norm. Rajsapan Jain, Khayrul Kabir, Joe Gilroy, Keith Mitchell, Kin-chung Wong, and Robin Hicks collaborate on high temperature magnets. Nerilie Abram, Michael Gagan, Zhengyu Liu, Wahyoe Hantoro, Malcolm McCulloch, and Bambang Suwargadion collaborate on ocean-atmosphere interactions. And Jane Carleton and her team of 64 researchers in 10 different countries around the world collaborate on the genome sequences of disease pathogens. Many of these scientists come from different societal cultures and geographic regions; however, in their research, they are all united by the global culture of science. Science is truly without borders.
-
-Scientists from such diverse backgrounds bring many points of view to bear on scientific problems. The 24-year-old chemistry graduate student from South Africa, the 41-year-old fisheries biologist from Florida, and the 65-year-old paleontologist from Beijing probably all have quite different perspectives on the world, and science benefits from such diversity.
-
-Diversity facilitates specialization.
-Scientists have different strengths and different interests. Not only do people from different backgrounds choose to investigate different questions, but they may approach the same question in different ways. So, the biologist with a penchant for math, the biologist with an interest in human behavior, and the biologist who can't get enough of microscopes and lab work can all focus on their strengths. While each might choose to tackle the same topic (say, human cognition), they will do so from different angles, contributing to a more complete understanding of the topic.
-
-
+People from all over the world from all sorts of different cultures and backgrounds are a part of the scientific community.  Scientists from such diverse backgrounds bring many points of view to bear on scientific problems.  Scientists have different strengths and different interests. Not only do people from different backgrounds choose to investigate different questions, but they may approach the same question in different ways. 
 
 Diversity invigorates problem solving. 
-Science benefits greatly from a community that approaches problems in a variety of creative ways. A diverse community is better able to generate new research methods, explanations, and ideas, which can help science over challenging hurdles and shed new light on problems. For example, Albert Einstein approached the notions of space and time in a very different way from his contemporaries, coming up with ideas that, though unintuitive, were supported by evidence and opened up new areas of research.
-
-
-
-Diversity balances biases. 
-Science benefits from practitioners with diverse beliefs, backgrounds, and values to balance out the biases that might occur if science were practiced by a narrow subset of humanity. As an example, consider the ongoing scientific investigation of climate change. With such a hot-button issue, personal beliefs about the environment, the economy, business, and politics could unwittingly bias one's search for or assessment of the evidence. But science relies on a diverse community, whose personal views run the gamut: liberal to conservative, tree-hugging to business-friendly, and all sorts of combinations thereof. Scientists strive to be impartial and objective in their assessments of scientific issues, but in those occasional cases in which personal biases sneak in, they are kept in check by a diverse scientific community.
-
-
-
-So science depends on diversity. 
-If scientists were all the same, scientific controversy would be rare, but so would scientific progress! Despite their diversity, all of those individual scientists are part of the same scientific community and contribute to the scientific enterprise in valuable ways. 
-
+Science benefits greatly from a community that approaches problems in a variety of creative ways. A diverse community is better able to generate new research methods, explanations, and ideas, which can help science over challenging hurdles and shed new light on problems. Science benefits from practitioners with diverse beliefs, backgrounds, and values to balance out the biases that might occur if science were practiced by a narrow subset of humanity. Scientists strive to be impartial and objective in their assessments of scientific issues, but in those occasional cases in which personal biases sneak in, they are kept in check by a diverse scientific community.
 
 
 Science: A community enterprise
-Most large-scale human endeavors involve a supporting community. From high schools to dairy farms, political parties to professional snowboarding competitions — they all rely on diverse communities with different members fulfilling different roles. And science is no exception. The scientific community is made up of researchers, students, lab technicians, the people who work at scientific journals, employees at funding agencies — in short, anyone who helps science govern itself and move forward.
+Most large-scale human endeavors involve a supporting community rely on diverse communities with different members fulfilling different roles. And science is no exception. The scientific community is made up of researchers, students, lab technicians, the people who work at scientific journals, employees at funding agencies — in short, anyone who helps science govern itself and move forward.
 In How science works, we briefly summarized some of the nitty-gritty, day-to-day functions served by the scientific community. Here, we elaborate on those and discuss broader functions served by the community:
 
 
@@ -84,3 +72,30 @@ Science builds on itself. We wouldn't have general relativity if we didn't have 
 
 Scrutiny. 
 Participating in the scientific community involves scrutinizing the work of others and allowing your own work to be similarly evaluated by your peers. This system of checks and balances verifies the quality of scientific research and assures that evidence is 
+
+
+
+
+A Generic Conference Talk Outline
+
+This conference talk outline is a starting point, not a rigid template. Most good speakers average two minutes per slide (not counting title and outline slides), and thus use about a dozen slides for a twenty minute presentation.
+
+    Title/author/affiliation (1 slide)
+    Forecast (1 slide)
+    Give gist of problem attacked and insight found (What is the one idea you want people to leave with? This is the "abstract" of an oral presentation.)
+    Outline (1 slide)
+    Give talk structure. Some speakers prefer to put this at the bottom of their title slide. (Audiences like predictability.)
+    Background
+        Motivation and Problem Statement (1-2 slides)
+        (Why should anyone care? Most researchers overestimate how much the audience knows about the problem they are attacking.)
+        Related Work (0-1 slides)
+        Cover superficially or omit; refer people to your paper.
+        Methods (1 slide)
+        Cover quickly in short talks; refer people to your paper. 
+    Results (4-6 slides)
+    Present key results and key insights. This is main body of the talk. Its internal structure varies greatly as a function of the researcher's contribution. (Do not superficially cover all results; cover key result well. Do not just present numbers; interpret them to give insights. Do not put up large tables of numbers.)
+    Summary (1 slide)
+    Future Work (0-1 slides)
+    Optionally give problems this research opens up.
+    Backup Slides (0-3 slides)
+    Optionally have a few slides ready (not counted in your talk total) to answer expected questions. (Likely question areas: ideas glossed over, shortcomings of methods or results, and future work.
