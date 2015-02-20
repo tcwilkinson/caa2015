@@ -54,19 +54,11 @@ In How science works, we briefly summarized some of the nitty-gritty, day-to-day
 
 
 Inspiration. 
-Community-level interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. For example, James Watson and Francis Crick came up with a new and brilliant idea for the structure of DNA, but that idea did not come out of the blue. The idea was sparked by evidence that many other scientists (including Linus Pauling, Erwin Chargaff, Maurice Wilkins, and especially Rosalind Franklin) discovered and made available to the scientific community prior to the Watson/Crick model.
-
+Community-level interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. 
 
 Motivation.
- Some people are driven by the thrill of competition — swimmers swim faster, politicians campaign harder, and students study more for college entrance exams when they know that they are competing against others. Scientists are no exception. Some scientists are motivated by the sense of competition offered by the community (e.g., rival teams racing to unlock the sequence of the human genome). Similarly, the community offers scientists the prospect of recognition from their peers. In science, achievement is usually measured, not in terms of money or titles, but in terms of respect and esteem from colleagues. The idea of uncovering a new line of evidence relating to the Big Bang is motivating in and of itself, but many scientists also appreciate the respect from other scientists that making such a discovery would engender. In science, both competition and recognition from the community encourage going out on a limb, testing a new idea, creative thinking, and plain old hard work.
-
+Community offers scientists the prospect of recognition from their peers. In science, achievement is usually measured, not in terms of money or titles, but in terms of respect and esteem from colleagues.
 			
-				
-
-Division of labor.
- Science is simply too broad for an individual on his or her own to handle! Even research within a single narrow field (e.g., cellular biology) may cover an immense array of specialized topics, from the chemical details of decoding DNA to cellular communication. That specialized knowledge is divided up among different researchers, who may then share their expertise by working together. Collaborations and division of labor are increasingly important today, as our scientific understanding, techniques, and technologies expand. There's simply more to know than ever before! And as we learn more about the world, more research is performed at the intersections of different fields: chemical reactions within cellular organelles, the mathematics of protein folding, the interplay between Earth's geologic history and biological evolution, or the physics of snail locomotion. Such cross-disciplinary studies are better approached by a team of experts from different fields than by a single individual struggling to keep up-to-date with too many topics.
-
-
 A cumulative knowledge base. 
 Science builds on itself. We wouldn't have general relativity if we didn't have classical mechanics. And we wouldn't have classical mechanics if we didn't have Galileo’s studies of motion and revolutionary ideas about astronomy. A similar deep history spanning hundreds of years could be given for almost any scientific idea. The scientific community provides the cumulative knowledge base on which science is built.
 
