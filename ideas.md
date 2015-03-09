@@ -10,7 +10,29 @@ Platforms like Wikipedia or Stack Overflow challenge scientific communication an
 
 
 Intro:
-1) Philosophy of FOSS and philosophy of Science (Free Science, C. Kelty)
+1-2: Science Community ->  Diversity, innovation are needed for science
+3-4: FOSS and Free Science  -> Community play a role
+What happend when you mix the communities of FOSS and Archaeology?
+But Foccus on data managment
+
+5-6: Copyrights engagement
+    -> Release of Data and more and more Raw data
+    with an appropriate Licences
+
+7: Publication
+
+6-7: reuse of Code as a tool. Mandatory (GNU Licence)
+    -> R: CA, PCA, LDA, 
+    Calcolatory R
+
+8-9: Quick adaptation of Ideas from other discipline
+    -> Diversity make strength
+    -> Innovation for new problems
+
+
+
+
+Philosophy of FOSS and philosophy of Science (Free Science, C. Kelty)
 Use extended definition of Free Software. Introdcution of Recursive Public
  - Development of FOSS
  -  Is there really no Influence in Archaology? Whole concept of sharing in there: yeah may be not only specific on archaeology
@@ -40,18 +62,16 @@ Price of FOSS conference: is that real ??? 450 Euros ???
 
 
 
-The scientific community: Diversity makes the difference
+1) The scientific community: Diversity makes the difference
 
-People from all over the world from all sorts of different cultures and backgrounds are a part of the scientific community.  Scientists from such diverse backgrounds bring many points of view to bear on scientific problems.  Scientists have different strengths and different interests. Not only do people from different backgrounds choose to investigate different questions, but they may approach the same question in different ways. 
+Point of views
+Scientists from diverse backgrounds bring many points of view to bear on scientific problems.  Scientists have different strengths and different interests. Not only do people from different backgrounds choose to investigate different questions, but they may approach the same question in different ways. 
 
 Diversity invigorates problem solving. 
-Science benefits greatly from a community that approaches problems in a variety of creative ways. A diverse community is better able to generate new research methods, explanations, and ideas, which can help science over challenging hurdles and shed new light on problems. Science benefits from practitioners with diverse beliefs, backgrounds, and values to balance out the biases that might occur if science were practiced by a narrow subset of humanity. Scientists strive to be impartial and objective in their assessments of scientific issues, but in those occasional cases in which personal biases sneak in, they are kept in check by a diverse scientific community.
+A diverse community is better able to generate new research methods, explanations, and ideas, which can help science over challenging hurdles and shed new light on problems. Science benefits from practitioners with diverse beliefs, backgrounds, and values to balance out the biases that might occur if science were practiced by a narrow subset of humanity. Scientists strive to be impartial and objective in their assessments of scientific issues, but in those occasional cases in which personal biases sneak in, they are kept in check by a diverse scientific community.
 
 
-Science: A community enterprise
-Most large-scale human endeavors involve a supporting community rely on diverse communities with different members fulfilling different roles. And science is no exception. The scientific community is made up of researchers, students, lab technicians, the people who work at scientific journals, employees at funding agencies — in short, anyone who helps science govern itself and move forward.
-In How science works, we briefly summarized some of the nitty-gritty, day-to-day functions served by the scientific community. Here, we elaborate on those and discuss broader functions served by the community:
-
+2)Functions served by the community
 
 Inspiration. 
 Community-level interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. 
@@ -64,6 +84,20 @@ Science builds on itself. We wouldn't have general relativity if we didn't have 
 
 Scrutiny. 
 Participating in the scientific community involves scrutinizing the work of others and allowing your own work to be similarly evaluated by your peers. This system of checks and balances verifies the quality of scientific research and assures that evidence is 
+
+
+
+3: FOSS and Free Science  -> Parallel as Show by Kelty
+    characteristics of peer review, open data subject to validation and replication, and a culture of academic freedom, credit, civility and reputation
+    Motivation: reputation
+    Recursive Public
+
+4: FOSS and Free Science  -> Community play a role
+
+
+
+
+
 
 
 
