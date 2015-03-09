@@ -18,6 +18,8 @@ But Foccus on data managment
 5-6: Copyrights engagement
     -> Release of Data and more and more Raw data
     with an appropriate Licences
+The existence of Free Software relies on intellectual property and licensing law.
+
 
 7: Publication
 
@@ -89,8 +91,11 @@ Participating in the scientific community involves scrutinizing the work of othe
 
 3: FOSS and Free Science  -> Parallel as Show by Kelty
     characteristics of peer review, open data subject to validation and replication, and a culture of academic freedom, credit, civility and reputation
+    Open Source is not like science is part of it: start and flowrish in universities (Kelty 2001)
     Motivation: reputation
     Recursive Public
+
+the circumstance that the more widely scientists make their intellectual property available to others, the more securely it becomes identified as their property. For science is public not private knowledge. Only by publishing their work can scientists make their contribution (as the telling word has it) and only when it thus becomes part of the public domain of science can they truly lay claim to it as theirs. For the claim resides only in the recognition of the source of the contribution by peers" [@Garfield1979] (after Kelty 2001).
 
 4: FOSS and Free Science  -> Community play a role
 
