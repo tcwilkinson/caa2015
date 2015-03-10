@@ -95,7 +95,17 @@ Participating in the scientific community involves scrutinizing the work of othe
     Motivation: reputation
     Recursive Public
 
-the circumstance that the more widely scientists make their intellectual property available to others, the more securely it becomes identified as their property. For science is public not private knowledge. Only by publishing their work can scientists make their contribution (as the telling word has it) and only when it thus becomes part of the public domain of science can they truly lay claim to it as theirs. For the claim resides only in the recognition of the source of the contribution by peers" [@Garfield1979] (after Kelty 2001).
+the circumstance that the more widely scientists make their intellectual property available to others, the more securely it becomes identified as their property. For science is public not private knowledge. Only by publishing their work can scientists make their contribution (as the telling word has it) and only when it thus becomes part of the public domain of science can they truly lay claim to it as theirs. For the claim resides only in the recognition of the source of the contribution by peers" [@Garfield1979]  (after Kelty 2001).
+
+Free Software is no longer only about software—it exemplifies a more general reorientation of power and knowledge. (Kelty 2008: 2)
+
+Free Software is a public of a particular kind: a recursive public. Recursive publics are publics concerned with the ability to build, control, modify, and maintain the  infrastructure that allows them to come into being in the first place and which, in turn, constitutes their everyday practical commitments and the identities  of the participants as creative and autonomous individuals.  (Kelty 2008: 7)
+
+However, it is modifiability that is the most fascinating, and unnerving, aspect of the reorientation of power and knowledge. (Kelty 2008: 12)
+
+Modulations happen whenever someone learns how some component of Free Software works and asks, “Can I try these practices out in some other domain?” (Kelty 2008: 16)
+
+
 
 4: FOSS and Free Science  -> Community play a role
 
