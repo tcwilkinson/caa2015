@@ -29,9 +29,9 @@ h3 {
 
 ## 
   - Scientific Community 
-  - Parallel of Scientific Community with FOSS Community
+  - Similiraties with FS Community
   - Concepts of Reuse, Modulation and Reproducibtily
-  - 3 examples
+  - 2 examples
   - Conlcusion
 
 
@@ -42,51 +42,63 @@ h3 {
 
   - Science is cumulative
   - Point of views
-  - Diversity invigorates problem solving. 
+  - Diversity invigorates problem solving
 
+<div class="centered">
+<img src="./ASCE-images/PhDKnowledge.012.jpg" alt="PhDKnowledge.012" style="height:400px">
+</div>
+<footer class="source">Image: Matt Might  |  CC BY-NC 2.5 </footer>
 
-
-## Functions 
+## Functions of the scientific community 
 
   - Inspiration
-  - Motivation.
-  - Scrutiny. 
+  - Motivation
+  - Scrutiny
+
+<div class="centered">
+<img src="./ASCE-images/MacacaNigraSelfPortrait.jpg" alt="PhDKnowledge.012" style="height:400px">
+</div>
+<footer class="source">Image: Selfy of Macaca Nigra   |  CC 0 </footer>
 
 
+# FS and Free Science
 
-
-# FOSS and Free Science
-
-## Some parallels
+## Some similarities
   - Peer review, open data subject to validation replication
   - Culture of credit, civility
-  - Reputation. 
+  - Reputation 
   - Communication
 
-"the circumstance that the more widely scientists make their intellectual property available to others, the more securely it becomes identified as their property. For science is public not private knowledge. [...] For the claim resides only in the recognition of the source of the contribution by peers" [@Garfield1979]
+## Modifiability
+  - Century of acclimatization to stable knowledge
+  - FS are in constant modulation
 
-## Chalenge the Power of Knowledge [@Kelty2008]
+## Chalenge the Power of Knowledge 
+<!-- [@Kelty2008] -->
 
-  - FOSS chalenge Science: Finality of knowledge
-  - Information Technologies render the Knowledge more dynamic
+  - New information technologies render the knowledge more dynamic[@Vinck2014]
   - New practices: "Push and Publish" workflow [@Kansa2014]
-  - Culture of sharing and Reproducibility
+  - Open question of finallity
 
+<div class="centered">
+<img src="./ASCE-images/DynamicPublicationFormats6.jpg" alt="DynamicPublicationFormats" style="height:250px">
+</div>
+<footer class="source">Image: Heller et al. 2014 in Opening Science (fig. 5, 200)  |  CC BY-NC 3.0 </footer>
 
 # Reproducibility
 
 ## Reuse and Reproducibility
 
-  - Sharing and reuse is mandatory in FOSS
-  - Currently applicable in Science
-  - Establishing in Archaeology
+  - Sharing and reuse is mandatory in FS
+  - Is going to be established in Science
+  - Comming in Archaeology
 
 
-# Rerproducibility Challenges
+# Reproducibility
 
-## Pedagogy. 
+## Pedagogy
 
-### In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. (132)
+#### In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. (132)
 
  - The Classic example is Lions' Commentary on UNIX 6th Edition, 
  - David L. Carlson -> An R Companion to Quantifying Archaeology by Stephen Shennan. It's making the Work with Shennan books much more easier.  
@@ -101,16 +113,28 @@ h3 {
  - R Conf -> Archaeology
  - Archeology -> Stat
  - Stat to Archaeology
- 
-## Modulation 
-Modulations happen whenever someone learns how some component of Free Software works and asks, “Can I try these practices out in some other domain?” (Kelty 2008: 16)
+
+<div class="centered">
+<img src="./ASCE-images/Strupler-Abstract-ConfR.png" alt="Strupler-Abstract-ConfR" style="height:250px">
+</div>
+<footer class="source">Image: 2e Rencontres R à Lyon 2013 </footer>
+
+<div class="centered">
+<img src="./ASCE-images/RadoszyckiPremiere.png" alt="RadoszyckiPremiere" style="height:250px">
+</div>
+<footer class="source"> Lombard Hélène et Radoszycki Lise  </footer>
+
+<div class="centered">
+<img src="./ASCE-images/CachetsHittitesGithub.png" alt="CachetsHittitesGithub" style="height:250px">
+</div>
+<footer class="source">Image: nehemie.github.io/CachetsHittites  |  CC BY 4.0 </footer>
 
 
 # The Conclusion
 
 ## Key points
 
- - effect of FS in Science and the perspective it oppens. 
+ - effect of FS in Science and the perspective it opens. 
  - Need for further advocacy for FS in archaeology and I would like to see more debates on 
  - how FS challenge Knowledge transmission: open question 
  
