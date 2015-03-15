@@ -94,23 +94,21 @@ But FS with practices like forking, new versioning, constant evolution of the so
 
 New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with a content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complet reevaluation of Wikipedia at the University. 10 years ago, as I saw it, it was mostly rejected as "untrustable source". For example as I started as undergraduate, Professors were more or less forbiding the usage of Wikipedia but some years after same professor explain how to use scientificaly Wikipedia, and some years after they started to actively contribute to it. 
 
-Wikipedia reveals how complex the system of evaluation of the knowledge is and how it's now challenged thanks to FS. There is still few example of new workflow om the academia. But as an example for archaeology Eric Kansa advocates for "Push and Publish" workflow (@Kansa2014).
+Wikipedia reveals how complex the system of evaluation of the knowledge is and how this system is now challenged thanks to FS. Even is there is a growing discussion on dynamic puglishing there is still few example of new workflow in the academia. As an example for archaeology Eric Kansa advocates for his "Push and Publish" workflow (@Kansa2014).
 
-
-%%%% EXPAND HERE %%%
-FS interroge how authority is establish and question the finality of publication. This dissimilarity with FS, content in constant dynamic, give the oppurtunity to better focus on the workflow and not only on the results.
+FS interroge how authority is establish and question the finality of publication. Content in constant dynamic, the biggest strenght in FS, give the oppurtunity to better challenge the stability of Science. This move from stability to dynamis bring to focus on the workflow and not only on the results and on how to transmit your workflow in a way that is reproducible.
 
 
 
 6) Reproducibility
 
-An aspect now highly debated in science and rapidly and steadly growing in Archaeology is reproducibility.  Reproducibility allow anyone to start from the same data to arrive at the same conclusion. In Archaeology there is no culture of exchanging code for reproducibility until now even if it is changing. If we turn back to the definition of science, reproducibility and sharing of code is even the sine qua non for the science, to permit the community to scrutinise the work: 
+An aspect now highly debated in science and rapidly and steadly growing in Archaeology is reproducibility.  Reproducibility allow anyone to start from the same data to arrive at the same conclusion. In this Slide I show how reproducibility is possible with the Software R. In Archaeology there is no culture of exchanging code for reproducibility until now even if it is changing. If we turn back to the definition of science, reproducibility and sharing of code is even the sine qua non for the science, to permit the community to scrutinise the work: 
 
 « We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication.» [@Fanelli 2013] 
 
-If you don't have the code or the possibility to critic and explore the work, is that reliable? But moreover are scientist not blocking Science if it is not reproducible? (some would like to go to say that is missconduct).
+If you don't have the code or the possibility to critic and explore the work, is that reliable? (some would like to go to say that is missconduct ... the point of Fanelli ist made in an article about misconduct and false claim in Science).
 
-Now I will expose the benefits of reproducibility for Archaeology as community enterprise:  Besides  to  be a better practice of science, reproducibility is important for:
+Reproducibility is one of the key aspect that challenge science and I will now expose the benefits of reproducibility for Archaeology.  Besides  to  be a better practice of science, reproducibility is important for:
  - First Pedagogy  
  - Second Blurring the community borders 
 

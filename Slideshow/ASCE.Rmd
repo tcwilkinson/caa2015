@@ -89,10 +89,12 @@ h3 {
 
 ## Reuse and Reproducibility
 
-  - Sharing and reuse is mandatory in FS
-  - Is going to be established in Science
-  - Comming in Archaeology
+ - « We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication.» [@Fanelli 2013] 
 
+<div class="centered">
+<img src="./ASCE-images/KieranHealy--workflow-wide.png" alt="KieranHealy--workflow" style="height:250px">
+</div>
+<footer class="source">Image: Kieran Healy </footer>
 
 # Reproducibility
 
