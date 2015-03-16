@@ -102,7 +102,7 @@ FS interroge how authority is establish and question the finality of publication
 
 6) Reproducibility
 
-An aspect now highly debated in science and rapidly and steadly growing in Archaeology is reproducibility.  Reproducibility allow anyone to start from the same data to arrive at the same conclusion. In this Slide I show how reproducibility is possible with the Software R. In Archaeology there is no culture of exchanging code for reproducibility until now even if it is changing. If we turn back to the definition of science, reproducibility and sharing of code is even the sine qua non for the science, to permit the community to scrutinise the work: 
+An aspect now highly debated in science and rapidly and steadly growing in Archaeology is reproducibility. Reproducibility allow anyone to start from the same data to arrive at the same conclusion. In this Slide I show how reproducibility is possible with the Software R. In Archaeology there is no culture of exchanging code for reproducibility until now even if it is changing. If we turn back to the definition of science, reproducibility and sharing of code is even the sine qua non for the science, to permit the community to scrutinise the work: 
 
 « We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication.» [@Fanelli 2013] 
 

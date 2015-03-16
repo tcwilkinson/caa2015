@@ -1,7 +1,8 @@
 ---
 title: "Archaeological Science as Community Enterprise"
-author: "N. Strupler"
-date: "02/04/2015 | caa2015 - KEEP THE REVOLUTION GOING"
+subtitle: "The Challenge of Reproducibility"
+author: "[N. Strupler](mailto:nehemie.strupler@etu.unistra.fr)"
+date: "02/04/2015 | [CAA 2015- KEEP THE REVOLUTION GOING](http://caaconference.org)"
 output:
   ioslides_presentation:
     fig_height: 4
@@ -11,9 +12,14 @@ output:
     transition: faster
     toc: true
     logo: ./ASCE-images/byQ.png
+bibliography: bibliography.bib
 ---
 
 <style>
+body {
+  background-color: yellow;
+  slide: yellow;
+} 
 h2 { 
  color: #3399ff;    
 }
@@ -27,12 +33,13 @@ h3 {
 
 # Outline
 
-## 
+## Outline {.flexbox .vcenter}
+
   - Scientific Community 
-  - Similiraties with FS Community
-  - Concepts of Reuse, Modulation and Reproducibtily
+  - Similarities with FS Community
+  - Concepts of Reuse, Modulation and Reproducibility
   - 2 examples
-  - Conlcusion
+  - Conclusion
 
 
 
@@ -45,100 +52,179 @@ h3 {
   - Diversity invigorates problem solving
 
 <div class="centered">
-<img src="./ASCE-images/PhDKnowledge.012.jpg" alt="PhDKnowledge.012" style="height:400px">
+<img src="./ASCE-images/PhDKnowledge.012.png" alt="PhDKnowledge.012" style="height:400px">
 </div>
-<footer class="source">Image: Matt Might  |  CC BY-NC 2.5 </footer>
+<footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
 
-## Functions of the scientific community 
+## Functions of the scientific community
 
+<div class="columns-2">
+ <div class="valign">
   - Inspiration
   - Motivation
   - Scrutiny
+</div>
 
 <div class="centered">
 <img src="./ASCE-images/MacacaNigraSelfPortrait.jpg" alt="PhDKnowledge.012" style="height:400px">
 </div>
-<footer class="source">Image: Selfy of Macaca Nigra   |  CC 0 </footer>
-
+<footer class="source">Image: [Selfy of Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
+</div>
 
 # FS and Free Science
 
 ## Some similarities
-  - Peer review, open data subject to validation replication
+
+<div class="columns-2">
+  - Peer review
+  - Validation and replication
   - Culture of credit, civility
   - Reputation 
   - Communication
+  
+<div class="centered">
+<img src="./ASCE-images/OpeningScience.png" alt="OpeningScience" style="height:300px">
+</div>
+<footer class="source">Image: [Bartling et al. 2014, Opening Science (Cover)](http://dx.doi.org/10.1007/978-3-319-00026-8)  |  CC BY-NC 3.0 </footer>  
+</div>
 
 ## Modifiability
   - Century of acclimatization to stable knowledge
   - FS are in constant modulation
+  
+<div class="centered">
+<img src="./ASCE-images/ResearchCulture.png" alt="ResearchCulture" style="height:350px">
+</div>
+<footer class="source">Image: [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
 ## Chalenge the Power of Knowledge 
 <!-- [@Kelty2008] -->
 
-  - New information technologies render the knowledge more dynamic[@Vinck2014]
-  - New practices: "Push and Publish" workflow [@Kansa2014]
-  - Open question of finallity
+  - New information technologies render the knowledge more dynamic <small> [@Vinck2014]() </small>
+  - New practices: "Push and Publish" workflow [@Kansa2014]()
+  - Open question of finality
 
 <div class="centered">
-<img src="./ASCE-images/DynamicPublicationFormats6.jpg" alt="DynamicPublicationFormats" style="height:250px">
+<img src="./ASCE-images/DynamicPublicationFormats6.jpg" alt="DynamicPublicationFormats" style="height:320px">
 </div>
-<footer class="source">Image: Heller et al. 2014 in Opening Science (fig. 5, 200)  |  CC BY-NC 3.0 </footer>
+<footer class="source">Image: [Heller et al. 2014, Opening Science (fig. 5, 200)](http://dx.doi.org/10.1007/978-3-319-00026-8_13)  |  CC BY-NC 3.0 </footer>
 
 # Reproducibility
 
 ## Reuse and Reproducibility
 
- - « We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication.» [@Fanelli 2013] 
+ - "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
 
 <div class="centered">
 <img src="./ASCE-images/KieranHealy--workflow-wide.png" alt="KieranHealy--workflow" style="height:250px">
 </div>
-<footer class="source">Image: Kieran Healy </footer>
+<footer class="source">Image: [Kieran Healy's Homepage](http://kieranhealy.org/resources/) | Kieran Healy </footer>
 
-# Reproducibility
+
+
+
+
+## Pedagogy {.build}
+
+In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
+
+<div class="columns-2">
+ - Lions' Commentary on UNIX 6th Edition
+
+<div class="centered">
+<img src="./ASCE-images/lions-unix-commentary.jpg" alt="lions-unix-commentary" style="height:250px">
+</div>
+<footer class="source">Image: [Columbia University Computing History](http://www.columbia.edu/cu/computinghistory/books/) | Frank da Cruz </footer>
+</div>
 
 ## Pedagogy
 
-#### In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. (132)
+In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. 
 
- - The Classic example is Lions' Commentary on UNIX 6th Edition, 
- - David L. Carlson -> An R Companion to Quantifying Archaeology by Stephen Shennan. It's making the Work with Shennan books much more easier.  
- - Quantitative Archaeology Wiki  from isoa.it too.
-
-
+<div class="columns-2">
+> - Lions' Commentary on UNIX 6th Edition
+> - An R Companion to Quantifying Archaeology by Stephen Shennan from David L. Carlson
 
 
+
+
+
+<div class="centered">
+<img src="./ASCE-images/Carlson-QuantifiyingArchaeology.png" alt="Carlson-QuantifiyingArchaeology" style="height:250px">
+</div>
+<footer class="source">Image: [David L. Carlson's Website](http://people.tamu.edu/~dcarlson) </footer>
+
+</div>
+
+## Pedagogy
+
+In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. 
+
+<div class="columns-2">
+> - Lions' Commentary on UNIX 6th Edition
+> - An R Companion to Quantifying Archaeology by Stephen Shennan from David L. Carlson
+> - Quantitative Archaeology Wiki
+
+
+
+
+<div class="centered">
+<img src="./ASCE-images/iosa-DiggingNumbers.png" alt="iosa-DiggingNumbers" style="height:250px">
+</div>
+<footer class="source">Image: http://wiki.iosa.it </footer>
+
+</div>
+
+
+
+
+## Blurring the border {.build}
+<div class="columns-2">
+
+ - (Archaeological) project with R on Hittite seals 
+
+<div class="centered">
+<img src="./ASCE-images/Rmeeting.png" alt="Rmeeting" style="width:430px">
+</div>
+<footer class="source">Image: [2nd R Meeting, Lyon (France), june 27th-28th, 2013](http://r2013-lyon.sciencesconf.org/) </footer>
+
+</div>
 
 ## Blurring the border
+<div class="columns-2">
 
- - R Conf -> Archaeology
- - Archeology -> Stat
- - Stat to Archaeology
-
-<div class="centered">
-<img src="./ASCE-images/Strupler-Abstract-ConfR.png" alt="Strupler-Abstract-ConfR" style="height:250px">
-</div>
-<footer class="source">Image: 2e Rencontres R à Lyon 2013 </footer>
+> - (Archaeological) project with R on Hittite seals 
+> - Turn into statistic question
 
 <div class="centered">
-<img src="./ASCE-images/RadoszyckiPremiere.png" alt="RadoszyckiPremiere" style="height:250px">
+<img src="./ASCE-images/RadoszyckiPremiere.png" alt="RadoszyckiPremiere" style="width:430px">
 </div>
 <footer class="source"> Lombard Hélène et Radoszycki Lise  </footer>
 
-<div class="centered">
-<img src="./ASCE-images/CachetsHittitesGithub.png" alt="CachetsHittitesGithub" style="height:250px">
 </div>
-<footer class="source">Image: nehemie.github.io/CachetsHittites  |  CC BY 4.0 </footer>
 
+## Blurring the border
+<div class="columns-2">
+
+> - (Archaeological) project with R on Hittite seals 
+> - Turn into statistic question
+> - Mixing of competences
+
+<div class="centered">
+<img src="./ASCE-images/CachetsHittitesGithub.png" alt="CachetsHittitesGithub" style="width:430px">
+</div>
+<footer class="source">Image: [Néhémie Strupler](http://nehemie.github.io/CachetsHittites)  |  CC BY 4.0 </footer>
+
+</div>
 
 # The Conclusion
 
 ## Key points
 
- - effect of FS in Science and the perspective it opens. 
- - Need for further advocacy for FS in archaeology and I would like to see more debates on 
- - how FS challenge Knowledge transmission: open question 
+ - effect of FS in Science 
+ - new perspective
+ - need for further advocacy for FS
+ - Open question: how far FS challenge knowledge transmission?  
  
 ## Colophon
 
@@ -154,16 +240,23 @@ ORCID: [http://orcid.org/0000-0002-2898-6217](ORCID: http://orcid.org/0000-0002-
 
 ### Licensing:
 
-Presentation: [CC-BY-4.0 ](http://creativecommons.org/licenses/by/4.0/)
+Presentation: [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/)
 
 Source code: [MIT](http://opensource.org/licenses/MIT) 
 
 
 
-## Publishing and Pushing
+## Backup slide | Publishing and Pushing
 <div class="centered">
-<img src="./ASCE-images/KansaWorkflow.jpg" alt="KansaWorkflow" style="height:400px">
+<img src="./ASCE-images/KansaWorkflow.jpg" alt="KansaWorkflow" style="height:380px">
 </div>
 
 
 <footer class="source">Kansa, E. C.; Kansa, S. W. & Arbuckle, B. Publishing and Pushing: Mixing Models for Communicating Research Data in Archaeology,  *International Journal of Digital Curation*, 2014, 9.1, 57-70 </footer>
+
+---
+nocite: | 
+  @Kelty2001, @Kelty2008
+...
+
+## References {.smaller}
