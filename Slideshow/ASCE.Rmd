@@ -100,8 +100,8 @@ h3 {
 ## Chalenge the Power of Knowledge 
 <!-- [@Kelty2008] -->
 
-  - New information technologies render the knowledge more dynamic <small> [@Vinck2014]() </small>
-  - New practices: "Push and Publish" workflow [@Kansa2014]()
+  - New information technologies render the knowledge more dynamic <small> [@Vinck2014] </small>
+  - New practices: "Push and Publish" workflow [@Kansa2014]
   - Open question of finality
 
 <div class="centered">
