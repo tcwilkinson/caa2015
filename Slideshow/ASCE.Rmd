@@ -73,7 +73,7 @@ p{ color: #FFF;}
 <div class="centered">
 <img src="./ASCE-images/MacacaNigraSelfPortrait.jpg" alt="PhDKnowledge.012" style="height:400px">
 </div>
-<footer class="source">Image: [Selfy of Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
+<footer class="source">Image: [Self-portrait of Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
 </div>
 
 # Free Software and Science
@@ -238,7 +238,7 @@ Presentation written in [Markdown](http://daringfireball.net/projects/markdown/)
 
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/)
 
-Source code hosting: [https://github.com/nehemie/Slideshow](https://github.com/nehemie/Slideshow)
+Source code hosting: [https://github.com/nehemie/Slideshow](https://github.com/nehemie/caa2015)
 
 ORCID: [http://orcid.org/0000-0002-2898-6217](ORCID: http://orcid.org/0000-0002-2898-6217)
 
