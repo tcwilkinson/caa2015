@@ -11,6 +11,7 @@ output:
     logo: ./ASCE-images/Logo-DAI-UDS-t.png
     toc: yes
     transition: 0
+    widescreen: yes
 subtitle: The Challenge of Reproducibility
 bibliography: bibliography.bib
 ---
@@ -56,7 +57,7 @@ p{ color: #FFF;}
   - Diversity invigorates problem solving
 
 <div class="centered">
-<img src="./ASCE-images/PhDKnowledge.012-White.png" alt="PhDKnowledge.012" style="height:400px">
+<img src="./ASCE-images/PhDKnowledge.012-Inv.png" alt="PhDKnowledge.012" style="height:400px">
 </div>
 <footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
 
@@ -105,10 +106,10 @@ p{ color: #FFF;}
 
   - New IT render the knowledge more dynamic (Vinck 2014)
   - New practices: "Push and Publish" workflow (Kansa 2014)
-  - Finality of Knowledge?
+  - Finality of knowledge?
 
 <div class="centered">
-<img src="./ASCE-images/DynamicPublicationFormats6-Inv2.png" alt="DynamicPublicationFormats" style="height:280px">
+<img src="./ASCE-images/DynamicPublicationFormats6-Inv.png" alt="DynamicPublicationFormats" style="height:280px">
 </div>
 <footer class="source">Image: [Heller et al. 2014, Opening Science (fig. 5, 200)](http://dx.doi.org/10.1007/978-3-319-00026-8_13)  |  CC BY-NC 3.0 </footer>
 
