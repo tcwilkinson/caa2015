@@ -1,33 +1,36 @@
 ---
 title: "Archaeological Science as Community Enterprise"
-subtitle: "The Challenge of Reproducibility"
-author: "[N. Strupler](mailto:nehemie.strupler@etu.unistra.fr)"
-date: "02/04/2015 | [CAA 2015- KEEP THE REVOLUTION GOING](http://caaconference.org)"
+author: '[N. Strupler](mailto:nehemie.strupler@etu.unistra.fr)'
+date: "02/04/2015 | [CAA 2015 -- KEEP THE REVOLUTION GOING](http://caaconference.org)"
 output:
   ioslides_presentation:
     fig_height: 4
     fig_width: 7
     highlight: haddock
     incremental: yes
-    transition: faster
-    toc: true
-    logo: ./ASCE-images/byQ.png
+    logo: ./ASCE-images/Logo-DAI-UDS-t.png
+    toc: yes
+    transition: 0
+subtitle: The Challenge of Reproducibility
 bibliography: bibliography.bib
 ---
-
 <style>
-body {
-  background-color: yellow;
-  slide: yellow;
-} 
-h2 { 
- color: #3399ff;    
-}
-h3 { 
- color: #3399ff;  	
-}
-</style>
 
+body {  background-color: black; 
+}
+
+h2 {  color: #3399ff;    }
+h3 {  color: #3399ff;  	}
+slide { background-color: #000000;}
+
+ul{ color: #FFF;}
+p{ color: #FFF;}
+.title-slide hgroup h1 {color: #FFF;}
+
+
+
+
+</style>
 
 
 
@@ -35,10 +38,11 @@ h3 {
 
 ## Outline {.flexbox .vcenter}
 
-  - Scientific Community 
+
+  - What is a Scientific Community 
   - Similarities with FS Community
   - Concepts of Reuse, Modulation and Reproducibility
-  - 2 examples
+  - Reproducibility in Archaeology
   - Conclusion
 
 
@@ -48,11 +52,11 @@ h3 {
 ## Diversity makes the difference
 
   - Science is cumulative
-  - Point of views
+  - Importance of points of views
   - Diversity invigorates problem solving
 
 <div class="centered">
-<img src="./ASCE-images/PhDKnowledge.012.png" alt="PhDKnowledge.012" style="height:400px">
+<img src="./ASCE-images/PhDKnowledge.012-White.png" alt="PhDKnowledge.012" style="height:400px">
 </div>
 <footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
 
@@ -71,7 +75,7 @@ h3 {
 <footer class="source">Image: [Selfy of Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
 </div>
 
-# FS and Free Science
+# Free Software and Science
 
 ## Some similarities
 
@@ -89,44 +93,44 @@ h3 {
 </div>
 
 ## Modifiability
-  - Century of acclimatization to stable knowledge
-  - FS are in constant modulation
+  - Centuries of accomodation to stable knowledge
+  - New paradigms with constant modulation
   
 <div class="centered">
-<img src="./ASCE-images/ResearchCulture.png" alt="ResearchCulture" style="height:350px">
+<img src="./ASCE-images/ResearchCulture-Inv.png" alt="ResearchCulture" style="height:380px">
 </div>
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
-## Chalenge the Power of Knowledge 
-<!-- [@Kelty2008] -->
+## Chalenge the ‘Power of Knowledge’ | C. Kelty, Two Bits
 
-  - New information technologies render the knowledge more dynamic <small> [@Vinck2014] </small>
-  - New practices: "Push and Publish" workflow [@Kansa2014]
-  - Open question of finality
+  - New IT render the knowledge more dynamic (Vinck 2014)
+  - New practices: "Push and Publish" workflow (Kansa 2014)
+  - Finality of Knowledge?
 
 <div class="centered">
-<img src="./ASCE-images/DynamicPublicationFormats6.jpg" alt="DynamicPublicationFormats" style="height:320px">
+<img src="./ASCE-images/DynamicPublicationFormats6-Inv2.png" alt="DynamicPublicationFormats" style="height:280px">
 </div>
 <footer class="source">Image: [Heller et al. 2014, Opening Science (fig. 5, 200)](http://dx.doi.org/10.1007/978-3-319-00026-8_13)  |  CC BY-NC 3.0 </footer>
 
+
+
+
 # Reproducibility
 
-## Reuse and Reproducibility
-
- - "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
+## Reuse and Reproducibility{.build .flexbox .vcenter}
 
 <div class="centered">
-<img src="./ASCE-images/KieranHealy--workflow-wide.png" alt="KieranHealy--workflow" style="height:250px">
+<img src="./ASCE-images/KieranHealy--workflow-wide-Inv.png" alt="KieranHealy--workflow" style="height:250px">
 </div>
 <footer class="source">Image: [Kieran Healy's Homepage](http://kieranhealy.org/resources/) | Kieran Healy </footer>
 
-
+"We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
 
 
 
 ## Pedagogy {.build}
 
-In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
+" In pedagogical terms, Windows is to fish as UNIX is to fishing lessons "
 
 <div class="columns-2">
  - Lions' Commentary on UNIX 6th Edition
@@ -139,7 +143,7 @@ In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
 
 ## Pedagogy
 
-In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. 
+" In pedagogical terms, Windows is to fish as UNIX is to fishing lessons "
 
 <div class="columns-2">
 > - Lions' Commentary on UNIX 6th Edition
@@ -158,7 +162,7 @@ In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
 
 ## Pedagogy
 
-In pedagogical terms, Windows is to fish as UNIX is to fishing lessons. 
+" In pedagogical terms, Windows is to fish as UNIX is to fishing lessons " 
 
 <div class="columns-2">
 > - Lions' Commentary on UNIX 6th Edition
@@ -203,7 +207,7 @@ In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
 
 </div>
 
-## Blurring the border
+## Blurring the border: ‘Ambiguate’
 <div class="columns-2">
 
 > - (Archaeological) project with R on Hittite seals 
@@ -217,7 +221,7 @@ In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
 
 </div>
 
-# The Conclusion
+# Conclusion
 
 ## Key points
 
@@ -229,7 +233,7 @@ In pedagogical terms, Windows is to fish as UNIX is to fishing lessons.
 ## Colophon
 
 
-Presentation written in [Markdown](http://daringfireball.net/projects/markdown/) ([R Presentation](http://www.rstudio.com/ide/docs/presentations/overview))
+Presentation written in [Markdown](http://daringfireball.net/projects/markdown/) ([ioslides](http://rmarkdown.rstudio.com/ioslides_presentation_format.html))
 
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/)
 
@@ -248,7 +252,7 @@ Source code: [MIT](http://opensource.org/licenses/MIT)
 
 ## Backup slide | Publishing and Pushing
 <div class="centered">
-<img src="./ASCE-images/KansaWorkflow.jpg" alt="KansaWorkflow" style="height:380px">
+<img src="./ASCE-images/KansaWorkflow-Inv.png" alt="KansaWorkflow" style="height:380px">
 </div>
 
 
@@ -256,7 +260,7 @@ Source code: [MIT](http://opensource.org/licenses/MIT)
 
 ---
 nocite: | 
-  @Kelty2001, @Kelty2008
+  @Kelty2001, @Kelty2008, @Kansa2014, @Vinck2014
 ...
 
 ## References {.smaller}
