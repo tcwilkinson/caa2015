@@ -53,7 +53,7 @@ p{ color: #FFF;}
 ## Diversity makes the difference
 
   - Science is cumulative
-  - Importance of points of views
+  - Differents points of views stabilise knowledge
   - Diversity invigorates problem solving
 
 <div class="centered">
@@ -73,7 +73,7 @@ p{ color: #FFF;}
 <div class="centered">
 <img src="./ASCE-images/MacacaNigraSelfPortrait.jpg" alt="PhDKnowledge.012" style="height:400px">
 </div>
-<footer class="source">Image: [Self-portrait of Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
+<footer class="source">Image: [Self-portrait of a Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
 </div>
 
 # Free Software and Science
@@ -87,14 +87,21 @@ p{ color: #FFF;}
   - Reputation 
   - Communication
   
+
+
 <div class="centered">
-<img src="./ASCE-images/OpeningScience.png" alt="OpeningScience" style="height:300px">
+<img src="./ASCE-images/OpeningScience.png" alt="OpeningScience" style="height:260px">
 </div>
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (Cover)](http://dx.doi.org/10.1007/978-3-319-00026-8)  |  CC BY-NC 3.0 </footer>  
 </div>
 
+### Some dissimilarities
+
+ - How project are developed, maintained, contested, and how ideas are exchanged
+ - Challenge what is taken for granted in science
+
 ## Modifiability
-  - Centuries of accomodation to stable knowledge
+  - Centuries of accomodation to 'stable knowledge'
   - New paradigms with constant modulation
   
 <div class="centered">
@@ -106,7 +113,7 @@ p{ color: #FFF;}
 
   - New IT render the knowledge more dynamic (Vinck 2014)
   - New practices: "Push and Publish" workflow (Kansa 2014)
-  - Finality of knowledge?
+  - Reconcile process and result
 
 <div class="centered">
 <img src="./ASCE-images/DynamicPublicationFormats6-Inv.png" alt="DynamicPublicationFormats" style="height:280px">
@@ -118,7 +125,7 @@ p{ color: #FFF;}
 
 # Reproducibility
 
-## Reuse and Reproducibility{.build .flexbox .vcenter}
+## Reproducibility (Cf. Ben Marwick) {.build .flexbox .vcenter}
 
 <div class="centered">
 <img src="./ASCE-images/KieranHealy--workflow-wide-Inv.png" alt="KieranHealy--workflow" style="height:250px">
@@ -129,7 +136,7 @@ p{ color: #FFF;}
 
 
 
-## Pedagogy {.build}
+## Pedagogical role {.build}
 
 " In pedagogical terms, Windows is to fish as UNIX is to fishing lessons "
 
@@ -183,7 +190,7 @@ p{ color: #FFF;}
 
 
 
-## Blurring the border {.build}
+## Blurring the borders {.build}
 <div class="columns-2">
 
  - (Archaeological) project with R on Hittite seals 
@@ -195,7 +202,7 @@ p{ color: #FFF;}
 
 </div>
 
-## Blurring the border
+## Blurring the borders
 <div class="columns-2">
 
 > - (Archaeological) project with R on Hittite seals 
@@ -208,7 +215,7 @@ p{ color: #FFF;}
 
 </div>
 
-## Blurring the border: ‘Ambiguate’
+## Blurring the borders: ‘Ambiguate’
 <div class="columns-2">
 
 > - (Archaeological) project with R on Hittite seals 
