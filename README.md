@@ -10,6 +10,8 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
 
   - The abstract (Abstract.md) for the CAA conference, Part 10 "Open software, open data", session [A ArcheoFOSS: free/open source software and archaeological research, ten years later](http://caaconference.org/program/sessions/10a/)
   - The License (License.md): CC BY 4.0
+  - The Slideshow folder with a preview as [gh-pages](http://nehemie.github.io/caa2015/ASCE.html)
+  - My paper (ideas.md)
 
 
 ## Resources used for my abstract
