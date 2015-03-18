@@ -233,10 +233,10 @@ p{ color: #FFF;}
 
 ## Key points
 
- - effect of FS in Science 
- - new perspective
- - need for further advocacy for FS
- - Open question: how far FS challenge knowledge transmission?  
+ - Relation of FS with archaeology 
+ - FS challenge the authority
+ - Reproducibility  disclose the research pipeline
+ - Need of further advocacy
  
 ## Colophon
 
