@@ -18,7 +18,7 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
 A kind of 'acknowledgement' ...
 
 ### Web links:
- -  [Ben Marwick (2014) "Reproducible Research: A view from the social sciences"](http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences/)
+ - [Ben Marwick (2014) "Reproducible Research: A view from the social sciences"](http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences/)
  - [University of California Museum of Paleontology (2015) "Understanding Science"](http://www.understandingscience.org). 3 January 2015
  - [Wikipedia (2015) "Humanitarian-FOSS"](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
  - [Tal Galili, Shane et al. from Stackoverflow (2010) How does software development compare with statistical programming/analysis?](http://stackoverflow.com/a/2296109/2759357)
