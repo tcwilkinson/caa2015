@@ -238,7 +238,7 @@ Presentation written in [Markdown](http://daringfireball.net/projects/markdown/)
 
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/)
 
-Source code hosting: [https://github.com/nehemie/Slideshow](https://github.com/nehemie/caa2015)
+Source code hosting: [https://github.com/nehemie/caa2015](https://github.com/nehemie/caa2015)
 
 ORCID: [http://orcid.org/0000-0002-2898-6217](ORCID: http://orcid.org/0000-0002-2898-6217)
 
