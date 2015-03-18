@@ -10,18 +10,18 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
 
   - The abstract (Abstract.md) for the CAA conference, Part 10 "Open software, open data", session [A ArcheoFOSS: free/open source software and archaeological research, ten years later](http://caaconference.org/program/sessions/10a/)
   - The License (License.md): CC BY 4.0
-  - The Slideshow folder with a preview as [gh-pages](http://nehemie.github.io/caa2015/ASCE.html)
+  - The slideshow folder with a preview as [gh-pages](http://nehemie.github.io/caa2015/ASCE.html)
   - My paper (ideas.md)
 
 
 ## Resources used for my abstract 
-A kind of 'acknowledgments' without any structure ...
+A kind of 'acknowledgement' ...
 
 ### Web links:
  -  [Ben Marwick (2014) "Reproducible Research: A view from the social sciences"](http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences/)
-  - [University of California Museum of Paleontology (2015) "Understanding Science"](http://www.understandingscience.org). 3 January 2015
-  - [Wikipedia (2015) "Humanitarian-FOSS"](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
-  - [Tal Galili, Shane et al. from Stackoverflow (2010) How does software development compare with statistical programming/analysis?](http://stackoverflow.com/a/2296109/2759357)
+ - [University of California Museum of Paleontology (2015) "Understanding Science"](http://www.understandingscience.org). 3 January 2015
+ - [Wikipedia (2015) "Humanitarian-FOSS"](http://en.wikipedia.org/wiki/Humanitarian-FOSS)
+ - [Tal Galili, Shane et al. from Stackoverflow (2010) How does software development compare with statistical programming/analysis?](http://stackoverflow.com/a/2296109/2759357)
 
 
 ### Bibliography
@@ -34,7 +34,7 @@ A kind of 'acknowledgments' without any structure ...
   - [Pfister, D.S. (2011) 'Networked expertise in the era of many-to-many communication: on Wikipedia and invention', Social Epistemology 253, 217-31](http://dx.doi.org/10.1080/02691728.2011.578306)
   - [Richardson, L-J. (2014). Understanding Archaeological Authority in a Digital Context, Internet Archaeology 38.](http://dx.doi.org/10.11141/ia.38.1)
   - [Rowlands, I., Nicholas, D., Williams, P., Huntington, P., Fieldhouse, M., Gunter, B., Withey, R., Jamali, H.R., Dobrowolski, T. and Tenopir, C. (2008) 'The Google generation: the information behaviour of the researcher of the future'](http://dx.doi.org/10.1108/00012530810887953), Aslib Proceedings 604, 290-310. 
-  - [Vinck, Dominique, and Claire Clivaz. 2014. “Les Humanités Délivrées. Savoir Et Culture Réinventés Hors Du Livre.”](http://dx.doi.org/10.3917/rac.025.0681) Revue d’anthropologie Des Connaissances 8.4: 681–704.
+  - [Vinck, Dominique, and Claire Clivaz. 2014. “Les Humanités Délivrées. Savoir Et Culture Réinventés Hors Du Livre.”](http://dx.doi.org/10.3917/rac.025.0681) Revue d’anthropologie des connaissances 8.4: 681–704.
 
   
 
