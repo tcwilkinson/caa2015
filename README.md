@@ -14,7 +14,7 @@ Repository of my on-going work for the CAA 2015 [![DOI](https://zenodo.org/badge
   - My paper (ideas.md)
 
 
-## Resources used for my abstract 
+## Resources used for my paper
 A kind of 'acknowledgement' ...
 
 ### Web links:
