@@ -37,6 +37,7 @@
   year = {2014},
   volume = {9.1},
   pages = {57-70},
+  doi = {10.2218/ijdc.v9i1.301},
   owner = {usr},
   timestamp = {2014.06.23}
 }
@@ -144,6 +145,16 @@
   owner = {nebi},
   timestamp = {2015.03.16},
   url = {http://pear.accc.uic.edu/ojs/index.php/fm/article/view/902}
+}
+
+@ELECTRONIC{Marwick2014,
+  author = {Ben Marwick},
+  month = {April},
+  year = {2014},
+  title = {Reproducible Research: A view from the social sciences},
+  url = {http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences},
+  owner = {nebi},
+  timestamp = {2015.03.23}
 }
 
 @ARTICLE{Vinck2014,

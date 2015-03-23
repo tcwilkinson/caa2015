@@ -41,9 +41,9 @@ p{ color: #FFF;}
 
 
   - What is a Scientific Community 
-  - Similarities with FS Community
-  - Concepts of Reuse, Modulation and Reproducibility
-  - Reproducibility in Archaeology
+  - Similarities with Free Software Community
+  - Concepts of reuse, modulation and reproducibility
+  - Reproducibility in archaeology
   - Conclusion
 
 
@@ -97,7 +97,7 @@ p{ color: #FFF;}
 
 ### Some dissimilarities
 
- - How project are developed, maintained, contested, and how ideas are exchanged
+ - How projects are developed, maintained, contested, and how ideas are exchanged
  - Challenge what is taken for granted in science
 
 ## Modifiability
@@ -125,7 +125,7 @@ p{ color: #FFF;}
 
 # Reproducibility
 
-## Reproducibility (Cf. Ben Marwick) {.build .flexbox .vcenter}
+## Reproducibility {.build .flexbox .vcenter}
 
 <div class="centered">
 <img src="./ASCE-images/KieranHealy--workflow-wide-Inv.png" alt="KieranHealy--workflow" style="height:250px">
@@ -237,7 +237,9 @@ p{ color: #FFF;}
  - FS challenge the authority
  - Reproducibility  disclose the research pipeline
  - Need of further advocacy
- 
+
+# Thank you 
+
 ## Colophon
 
 
@@ -248,6 +250,8 @@ Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/)
 Source code hosting: [https://github.com/nehemie/caa2015](https://github.com/nehemie/caa2015)
 
 ORCID: [http://orcid.org/0000-0002-2898-6217](ORCID: http://orcid.org/0000-0002-2898-6217)
+
+<footer class="source">This slide is a modulation of the colophon of [Ben Marwick's](http://orcid.org/0000-0001-7879-4531) [colophon on Reproducibility](http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences/#/39)  |  B. Marwick CC BY 3.0 </footer>
 
 
 ### Licensing:
@@ -264,11 +268,11 @@ Source code: [MIT](http://opensource.org/licenses/MIT)
 </div>
 
 
-<footer class="source">Kansa, E. C.; Kansa, S. W. & Arbuckle, B. Publishing and Pushing: Mixing Models for Communicating Research Data in Archaeology,  *International Journal of Digital Curation*, 2014, 9.1, 57-70 </footer>
+<footer class="source">Kansa, E. C.; Kansa, S. W. & Arbuckle, B. [Publishing and Pushing: Mixing Models for Communicating Research Data in Archaeology](http://dx.doi.org/10.2218/ijdc.v9i1.301),  *International Journal of Digital Curation*, 2014, 9.1, 57-70 </footer>
 
 ---
 nocite: | 
-  @Kelty2001, @Kelty2008, @Kansa2014, @Vinck2014
+  @Kelty2001, @Kelty2008, @Kansa2014, @Marwick2014, @Vinck2014
 ...
 
 ## References {.smaller}
