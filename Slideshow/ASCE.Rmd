@@ -57,7 +57,7 @@ p{ color: #FFF;}
   - Diversity invigorates problem solving
 
 <div class="centered">
-<img src="./ASCE-images/PhDKnowledge.012-Inv.png" alt="PhDKnowledge.012" style="height:400px">
+<img src="./ASCE-images/PhDKnowledge.012-Inv.png" alt="PhDKnowledge.012" style="height:380px">
 </div>
 <footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
 
@@ -112,7 +112,7 @@ p{ color: #FFF;}
 ## Chalenge the ‘Power of Knowledge’ | C. Kelty, Two Bits
 
   - New IT render the knowledge more dynamic (Vinck 2014)
-  - New practices: "Push and Publish" workflow (Kansa 2014)
+  - New practices: ex. "Push and Publish" workflow (Kansa 2014)
   - Reconcile process and result
 
 <div class="centered">
@@ -175,7 +175,7 @@ p{ color: #FFF;}
 <div class="columns-2">
 > - Lions' Commentary on UNIX 6th Edition
 > - An R Companion to Quantifying Archaeology by Stephen Shennan from David L. Carlson
-> - Quantitative Archaeology Wiki
+> - Quantitative Archaeology Wiki: [www.isoa.it](http://isoa.it)
 
 
 
@@ -190,10 +190,12 @@ p{ color: #FFF;}
 
 
 
-## Blurring the borders {.build}
+## Blurring borders {.build}
 <div class="columns-2">
 
  - (Archaeological) project with R on Hittite seals 
+    - Communication with informal and wider communities 
+    - Common language and a common goal through which foreign disciplines are revisited 
 
 <div class="centered">
 <img src="./ASCE-images/Rmeeting.png" alt="Rmeeting" style="width:430px">
@@ -202,11 +204,12 @@ p{ color: #FFF;}
 
 </div>
 
-## Blurring the borders
+## Blurring borders
 <div class="columns-2">
 
 > - (Archaeological) project with R on Hittite seals 
-> - Turn into statistic question
+
+  - Turn into statistical project
 
 <div class="centered">
 <img src="./ASCE-images/RadoszyckiPremiere.png" alt="RadoszyckiPremiere" style="width:430px">
@@ -215,13 +218,14 @@ p{ color: #FFF;}
 
 </div>
 
-## Blurring the borders: ‘Ambiguate’
+## Blurring borders
 <div class="columns-2">
 
 > - (Archaeological) project with R on Hittite seals 
-> - Turn into statistic question
-> - Mixing of competences
 
+> - Turn into statistical project
+
+  - Mixing of competences: two ways ambiguation
 <div class="centered">
 <img src="./ASCE-images/CachetsHittitesGithub.png" alt="CachetsHittitesGithub" style="width:430px">
 </div>
@@ -234,9 +238,12 @@ p{ color: #FFF;}
 ## Key points
 
  - Relation of FS with archaeology 
- - FS challenge the authority
- - Reproducibility  disclose the research pipeline
- - Need of further advocacy
+ - FS question transmission and reuse of knowledge.
+ - Reproducibility makes the research pipeline available for scrutinity
+ - Need of further advocacy for FS in archaeology: 
+    - Stronger research
+    - Pedagogical
+    - Innovative
 
 # Thank you 
 
