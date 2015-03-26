@@ -40,8 +40,8 @@ p{ color: #FFF;}
 ## Outline {.flexbox .vcenter}
 
 
-  - What is a Scientific Community 
-  - Similarities with Free Software Community
+  - What is a scientific community 
+  - Similarities with Free Software community
   - Concepts of reuse, modulation and reproducibility
   - Reproducibility in archaeology
   - Conclusion
@@ -78,7 +78,7 @@ p{ color: #FFF;}
 
 # Free Software and Science
 
-### Some similarities
+## Some similarities
 
 <div class="columns-2">
   - Peer review
@@ -188,12 +188,24 @@ p{ color: #FFF;}
 </div>
 
 
-
-
 ## Blurring borders {.build}
 <div class="columns-2">
 
  - (Archaeological) project with R on Hittite seals 
+
+<div class="centered">
+<img src="./ASCE-images/RSealProject.png" alt="RSealProject" style="width:430px">
+</div>
+<footer class="source">Image: [2nd R Meeting, Lyon (France), june 27th-28th, 2013](http://r2013-lyon.sciencesconf.org/) </footer>
+
+</div>
+
+
+
+## Blurring borders
+<div class="columns-2">
+
+>  - (Archaeological) project with R on Hittite seals 
     - Communication with informal and wider communities 
     - Common language and a common goal through which foreign disciplines are revisited 
 
@@ -209,13 +221,11 @@ p{ color: #FFF;}
 
 > - (Archaeological) project with R on Hittite seals 
 
-  - Turn into statistical project
+  - (Statistical) project of Hélène Lombard et Lise Radoszycki
 
 <div class="centered">
 <img src="./ASCE-images/RadoszyckiPremiere.png" alt="RadoszyckiPremiere" style="width:430px">
 </div>
-<footer class="source"> Lombard Hélène et Radoszycki Lise  </footer>
-
 </div>
 
 ## Blurring borders
@@ -223,9 +233,12 @@ p{ color: #FFF;}
 
 > - (Archaeological) project with R on Hittite seals 
 
-> - Turn into statistical project
+> - (Statistical) project of Hélène Lombard et Lise Radoszycki
 
-  - Mixing of competences: two ways ambiguation
+  - Mixing of competences: two ways ambiguation.
+  
+  - On-going work on Github: [https://github.com/nehemie/CachetsHittites](https://github.com/nehemie/CachetsHittites)
+  
 <div class="centered">
 <img src="./ASCE-images/CachetsHittitesGithub.png" alt="CachetsHittitesGithub" style="width:430px">
 </div>
