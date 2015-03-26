@@ -78,7 +78,7 @@ p{ color: #FFF;}
 
 # Free Software and Science
 
-## Some similarities
+### Some similarities
 
 <div class="columns-2">
   - Peer review
