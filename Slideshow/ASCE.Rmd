@@ -101,7 +101,7 @@ p{ color: #FFF;}
  - Challenge what is taken for granted in science
 
 ## Modifiability
-  - Centuries of accomodation to 'stable knowledge'
+  - Centuries of adaptation to 'stable knowledge'
   - New paradigms with constant modulation
   
 <div class="centered">
@@ -109,7 +109,7 @@ p{ color: #FFF;}
 </div>
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
-## Chalenge the ‘Power of Knowledge’ | C. Kelty, Two Bits
+## Challenge the ‘Power of Knowledge’ | C. Kelty, Two Bits
 
   - New IT render the knowledge more dynamic (Vinck 2014)
   - New practices: ex. "Push and Publish" workflow (Kansa 2014)
