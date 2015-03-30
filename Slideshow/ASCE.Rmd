@@ -233,7 +233,7 @@ p{ color: #FFF;}
 
 > - (Archaeological) project with R on Hittite seals 
 
-> - (Statistical) project of Hélène Lombard et Lise Radoszycki
+> - (Statistical) project of Hélène Lombard and Lise Radoszycki
 
   - Mixing of competences: two ways ambiguation.
   
@@ -251,12 +251,18 @@ p{ color: #FFF;}
 ## Key points
 
  - Relation of FS with archaeology 
- - FS question transmission and reuse of knowledge.
+ - FS questions transmission and reuse of knowledge
  - Reproducibility makes the research pipeline available for scrutinity
  - Need of further advocacy for FS in archaeology: 
     - Stronger research
     - Pedagogical
     - Innovative
+
+
+## ...  {.build}
+<h3 style="font-size:300%;font-family:Gentium">KEEP THE REVOLUTION GOING</h3>
+
+<footer class="source"> Thanks to # vegbers </footer>
 
 # Thank you 
 
