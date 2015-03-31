@@ -31,7 +31,7 @@ I begin my talk by briefly outlining what is a scientific community in order to 
 
   - Science is cumulative 
 
-  Science is cumulative even if is not clear how exactly scientific knowledge accumulate. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
+  Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
   
    - Point of views
 
@@ -94,11 +94,11 @@ On top of this drawing, a representation of the current way of doing research wi
 
 New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". For example, as I started as undergraduate, professors were more or less forbidding to use Wikipedia, but some years after the same professors explained how to use it scientifically, and some years after they started to contribute to Wikipedia. 
 
-Wikipedia reveals how complex the system of evaluation of knowledge is. FS show how this system of evaluation is now challenged. Even if there is a growing discussion on dynamic publication there are still few examples of workflow in academia.  However some model have been proposed, like the "Push and Publish" workflow proposed by Eric Kansa (@Kansa2014).
+Wikipedia reveals how complex the system of evaluation of knowledge is. FS shows how this system of evaluation is now challenged. Even if there is a growing discussion on dynamic publication there are still few examples of workflow in academia.  However some model have been proposed, like the "Push and Publish" workflow proposed by Eric Kansa (@Kansa2014).
 
 FS asks how authority is established and question the finality of publication. Contents in constant dynamic, the biggest strength in FS, gives the opportunity to better challenge the stability of science. Most importantly, if the focus is not only on the results (stable knowledge), then FS moves the attention to how evidences are established and focuses consequently on the workflow. 
 
-Here is the point where, I will turn back to archaeology: I tackled about FS to see how it influenced science making, to expose precisely how FS enlarges the attention not only on the results but on the 'how to'. FS is the only way to reconcile the process of making science with the results. It's with this sense in mind, that I will look at reproducibility in archaeology.
+Here is the point where, I will turn back to archaeology: I tackled about FS to see how it influenced science making, to expose precisely how FS attracts the attention not only on the results but on the 'how to'. FS is the only way to reconcile the process of making science with the results. It's with this sense in mind, that I will look at reproducibility in archaeology.
 
 
 
