@@ -262,7 +262,7 @@ p{ color: #FFF;}
 ## ...  {.build}
 <h3 style="font-size:300%;font-family:Gentium">KEEP THE REVOLUTION GOING</h3>
 
-<footer class="source"> Thanks to # vegbers </footer>
+<!-- <footer class="source"> Thanks to # vegbers </footer> -->
 
 # Thank you 
 
