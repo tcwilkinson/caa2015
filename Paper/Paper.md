@@ -1,8 +1,15 @@
+---
+output:
+  html_document:
+    title: "Archaeological Science as Community Entreprise"
+    toc: yes
+---
 <style>
 
 body {  background-color: black; 
 }
 
+h1 {  color: #3399ff;    }
 h2 {  color: #3399ff;    }
 h3 {  color: #3399ff;    }
 slide { background-color: #000000;}
@@ -16,7 +23,7 @@ p{ color: #FFF;}
 
 </style>
 
-## Abstract
+# Abstract
 If 10 years ago it seemed largely irrelevant and out of scope to adopt FOSS (Free Open-Source Software), the setting dramatically changed. Nowadays to address methodological and theoretical issues in archaeology, FOSS are attractive and promise access to powerful toolboxes accompanied with lifelong sustainability. 
 An unexpected or unintended outgrowth of the adoption of FOSS is the interaction with FOSS Communities and the philosophy of software development. Such communities "are a global melting pot of diverse professions and skills that contribute to the progression of the goals represented by the software" (Wikipedia: The Free Encyclopaedia, s.v. "Humanitarian-FOSS"). Thus, archaeologist adopting FOSS deals with free, informal and wider communities, so-called FOSS communities. Each software or a specific package develops a community maintaining the software, providing advices, case examples, advertising and developing new tools. Looking for help, new ideas, possibilities of new tasks, reading or collaborate in the development of FOSS give access for archaeologist to others, less formal, but scientific communities. Platforms like Wikipedia or Stack Overflow challenge scientific communication and the reward principle driven by the traditional academic. This paper addresses how FOSS and FOSS-communities provide a common language and goal through which foreign disciplines are revisited. It also takes this different perspectives to look how this framework could enrich and challenge science and more specifically archaeological research.
 
@@ -25,16 +32,16 @@ An unexpected or unintended outgrowth of the adoption of FOSS is the interaction
 
 Archaeological Science as Community Enterprise
  
-## INTRODUCTION
+# INTRODUCTION
 Good morning, my name is Néhémie, I am a PhD student in Near Eastern Archaeology at the University of Strasbourg. I am working part time at the German Archaeological Institute in Istanbul. For my PhD I analyse a district from Hattusa -- the Bronze Age Capital of the Hittite in Central Anatolia, Turkey. So far for the self-promotion. 
 
 In my talk, I am going to explore the ways FS influences the practices of reuse and mixing of knowledge in archaeology. This general frame of reference will provide the background to look closer at the impact of reproducibility, for which I will show some examples.
 
-## MOTIVATION
+# MOTIVATION
 First of all, some words on my motivations. Discussions with many colleagues brought to me the conclusion that FS and their benefits are not well understood. Even if FS is well established inside and outside academia, the advantages of Free software (that is the 'free' as in 'free speech', and not the 'free' as in 'free beer') are not acknowledged. As a young scientist and PhD candidate, I need to be prepared to make a strong statement to defend my opinions and the reasons why I use Free Software for my PhD. I am grateful to the organisers of this session for the opportunity to take a bigger look at this picture.
 
 
-## SUMMARY
+# SUMMARY
 Let me briefly outline my talk. We will progress as follow: 
     - First I will introduce the notion of Scientific Community 
     - Then I will concentrate on the similarities between Scientific Community and Free Software Community
@@ -45,9 +52,9 @@ Let me briefly outline my talk. We will progress as follow:
 
 I begin my talk by briefly outlining what is a scientific community in order to stand out the similarities and the differences with FS in a second part
 
-## Why is the scientific community so important?
+# Why is the scientific community so important?
 
-### Science is cumulative 
+## Science is cumulative 
 
   Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
   
@@ -55,29 +62,29 @@ I begin my talk by briefly outlining what is a scientific community in order to 
 <footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
 
 
-### Point of views
+## Point of views
 
   In this process, the scientific community brings different points of views. This make the scientific knowledge accumulating and becoming "stable" faster. (I choose   the word "stable knowledge" to avoid "truth" in reference to the process of establishing a fact (I refer here to the work of Bruno Latour and others). Scientists from diverse backgrounds bring many points of views to resolve scientific problems, they choose to investigate different questions, or they may approach the same question in different ways.
   
-### Diversity invigorates problem solving 
+## Diversity invigorates problem solving 
 
   A diverse community invigorates problem solving and generates new research methods, explanations, ideas and sheds new light on problems. Science benefits from practitioners with diverse beliefs, backgrounds, and values to check out the biases.
 
-## Which are the functions served by the community
+# Which are the functions served by the community
 ![Self-portrait of a Macaca Nigra](Images/MacacaNigraSelfPortrait.jpg)
 <footer class="source">Image: [Self-portrait of a Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
 
 Quickly summarised the Scientific community serves three functions (that we can all observe in this session)
 
-### Inspiration 
+## Inspiration 
 
   Firstly it's a pool of inspiration: interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. 
 
-### Motivation
+## Motivation
 
   Secondly it's a motivating force for recognition and respect from peers.
 			
-### Scrutiny
+## Scrutiny
 
   Thirdly scientific community control the quality of scientific research by scrutinising the work of other. It's a system of checks and balances that assures that claims are not fraudulent
 
@@ -90,21 +97,21 @@ After this look at scientific community, I would like to move on to FS
 
 
 
-## FS and Free Science
+# FS and Free Science
 
 Free Software shares a lot of characteristics with science: both have
+
  - Scrutiny and cumulative knowledge that can be seen in process like peer reviewing, open data subject to validation and replication
  - In FS there is a strong culture of credit, civility, reputation and communication
 
-<!-->  The motivations to do Science or FS is often seen to be in many aspects similar: it's a based on the reputation you earn with your work and there is in both cases an ethic to attribute the work (Kelty 2001). In this process of credit and reputation, researcher make their work available to others and researcher become  identified with their work. Citation then accredit reuse of ideas, concepts  or code. In the FS movement code is published and accredited as author or contributor when the code it's used, reused or modified. Free Software and Science are based on the same principle of cumulative knowledge, reuse, mixing and modulation. <-->
+<!--  The motivations to do Science or FS is often seen to be in many aspects similar: it's a based on the reputation you earn with your work and there is in both cases an ethic to attribute the work (Kelty 2001). In this process of credit and reputation, researcher make their work available to others and researcher become  identified with their work. Citation then accredit reuse of ideas, concepts  or code. In the FS movement code is published and accredited as author or contributor when the code it's used, reused or modified. Free Software and Science are based on the same principle of cumulative knowledge, reuse, mixing and modulation. -->
 
 BUT similarities between Free Software and Science should not hide the differences. The similarities make easier to compare both communities, to better understand them and the ways they are structured. Then, it's the dissimilarities that help better understand how they work. FS impresses  due to the size of projects, indirect cooperation with people all around the world, the way projects are developed, maintained, contested, and how ideas are exchanged. These dissimilarities challenge in return, what is taken for granted in science . 
 
 ![Opening Science](Images/OpeningScience.png)
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (Cover)](http://dx.doi.org/10.1007/978-3-319-00026-8)  |  CC BY-NC 3.0 </footer>  
-</div>
 
-## Modifiability
+# Modifiability
 
 The concept of modifiability is without any doubt the most fascinating concept among the dissimilarities between Science and Free Software (Kelty 2008: 12). Books and articles have acclimatised science making with stable knowledge. The impression given by books or articles is that you have a definitive version  in your hands (Archaeologists speak mostly of "end publication" to contrast with "on going report"). But FS with practices like forking, new versioning, cloning, constant evolution of source code questions this concept. 
 
@@ -113,7 +120,7 @@ On top of this drawing, a representation of the current way of doing research wi
 ![Modifiability of knowledge](Images/ResearchCulture-Inv.png)
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
-## FS Challenge the Power of Knowledge 
+# FS Challenge the Power of Knowledge 
 (I refer to the expression of C. Kelty is his book, Two Bits)
 
 New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". For example, as I started as undergraduate, professors were more or less forbidding to use Wikipedia, but some years after the same professors explained how to use it scientifically, and some years after they started to contribute to Wikipedia. 
@@ -127,7 +134,7 @@ Here is the point where, I will turn back to archaeology: I tackled about FS to 
 ![Dynamic Publication](Images/DynamicPublicationFormats6-Inv.png)
 <footer class="source">Image: [Heller et al. 2014, Opening Science (fig. 5, 200)](http://dx.doi.org/10.1007/978-3-319-00026-8_13)  |  CC BY-NC 3.0 </footer>
 
-## Reproducibility
+# Reproducibility
 
 Reproducibility allows anyone to start from the same data, check all the process in order to verify the results. In this slide I show how reproducibility is possible with the Software R using Literate Statistical Analysis. Starting with ideas and data, all the process are knitted together.  In Archaeology there is no culture of exchanging code for reproducibility until now, even if it is changing. If we turn back to the definition of science, however, reproducibility and sharing of code is even the sine qua non for science, to permit the community to scrutinise the work. I quote here Fanelli
 
@@ -144,7 +151,7 @@ Reproducibility is one of the key aspect that challenge science and I will now e
 ![Reproducibility workflow with R, Knitr and Pandoc](Images/KieranHealy--workflow-wide-Inv.png)
 <footer class="source">Image: [Kieran Healy's Homepage](http://kieranhealy.org/resources/) | Kieran Healy </footer>
 
-## Pedagogy
+# Pedagogy
 
 First of all FS have a pedagogical aspect that you can not find with others software. 
 
@@ -177,7 +184,7 @@ Now I will move to my second point on the challenge provided by FS: that is blur
 
 
 
-## Blurring borders
+# Blurring borders
 ![iosa](Images/RSealProject.png)
 <footer class="source">Image: [Néhémie Strupler](http://nehemie.github.io/CachetsHittites) </footer>
 
@@ -189,7 +196,7 @@ Reproducibility, that is, the exposing of the process with the results, transfor
 
 
 
-## Conclusion
+# Conclusion
 
 In this presentation I wanted to explore the relation of FS with archaeology. It's a first try for me to give a bigger picture and it is mainly based on my own practice. I hope to have been able to show some of the effects of FS in Science and Archaeology and the perspectives that are now open. FS challenge the authority of science and provide a mean to transform archaeology by questioning transmission and reuse of knowledge. Reproducibility makes all the research pipeline available to the scrutiny of the community by reconciling data, process and results. Finally I would like to stress our responsibility to make further advocacy of FS in archaeology, and to make it louder of this three points: 
  - FS makes science stronger
