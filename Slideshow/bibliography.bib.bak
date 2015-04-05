@@ -149,7 +149,6 @@
 
 @ELECTRONIC{Marwick2014,
   author = {Ben Marwick},
-  month = {April},
   year = {2014},
   title = {Reproducible Research: A view from the social sciences},
   url = {http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences},
