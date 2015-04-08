@@ -2,6 +2,7 @@
 
 # Backup files
 *~
+*.bak
 
 # Rhistory
 *.Rhistory
