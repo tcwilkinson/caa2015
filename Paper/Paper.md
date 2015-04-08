@@ -39,7 +39,7 @@ The Open Access movement rises a lot of sympathy among archaeologists, grows on 
 
 Even if Free Software is well established inside and outside academia, the advantages of Free software (that is the 'free' as in 'free speech', and not the 'free' as in 'free beer') are not acknowledged[^FreeBeer]. Free software is in many cases (in the imaginary) understood as 'complicated', 'untrustable' or 'non as effective as proprietary software'. Software is a tool to answer a question and the emphasis is put on the results and not on the reuse neither of workflows nor results.
 
-The aim of this paper is to make a brief overview and comparison of the philosophies of science and Free Software before to draw the attention on changes in informations technologies that question knowledge dissemination. Not only Open Acess is important to sustain but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research. 
+The aim of this paper is to make a brief overview and comparison of the philosophies of science and Free Software before to draw the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research. 
 
 Firstly, I will introduce the notion of Scientific Community and then I will concentrate on the similarities between Scientific Community and Free Software Community. In a third point, I will examine the concepts of reuse, modulation and reproducibility in archaeology which I will illustrate with two examples
 
