@@ -3,6 +3,7 @@ title: "Archaeological Science as Community Entreprise"
 output:
   html_document:
     toc: yes
+bibliography: bibliography.bib
 ---
 <style>
 
@@ -37,14 +38,39 @@ An unexpected or unintended outgrowth of the adoption of FOSS is the interaction
 # INTRODUCTION[^PaperOrigin]
 The Open Access movement rises a lot of sympathy among archaeologists, grows on a daily basis and is widely supported. On the other side, the Free Software movement, where the origins of the Open Access movement is to be situated, is not (yet) considered as so relevant. However, on going and growing debates about benefits of dynamism in publication available through new informations technologies challenge this position. Why should archaeologist consider the philosophy of Free Software with more awareness?
 
-Even if Free Software is well established inside and outside academia, the advantages of Free software (that is the 'free' as in 'free speech', and not the 'free' as in 'free beer') are not acknowledged[^FreeBeer]. Free software is in many cases (in the imaginary) understood as 'complicated', 'untrustable' or 'non as effective as proprietary software'. Software is a tool to answer a question and the emphasis is put on the results and not on the reuse neither of workflows nor results.
+Even if Free Software is well established inside and outside academia, the advantages of Free software (that is "the 'free' as in 'free speech', and not the 'free' as in 'free beer' ") are not acknowledged[^FreeBeer]. Free software is in many cases (in the imaginary) understood as 'complicated', 'untrustable' or 'non as effective as proprietary software'. Software is a tool to answer a question and the emphasis is put on the results and not on the reuse neither of workflows nor of results.
 
-The aim of this paper is to make a brief overview and comparison of the philosophies of science and Free Software before to draw the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research. 
+The aim of this paper is to give a brief overview and and make a comparison of the philosophies of science and Free Software before to draw the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain a large access to research outcome but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research to sustain a stronger research.
 
-Firstly, I will introduce the notion of Scientific Community and then I will concentrate on the similarities between Scientific Community and Free Software Community. In a third point, I will examine the concepts of reuse, modulation and reproducibility in archaeology which I will illustrate with two examples
+Firstly, I will introduce the notion of Scientific Community and then I will concentrate on the similarities between Scientific Community and Free Software Community. In a third point, I will examine the concepts of reuse, modulation and reproducibility in archaeology which I will illustrate with two examples.
 
-[^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" of the [CAA 2015 "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the particiapants for the comments in a nice and motivating athmosphere. The original paper, the slideshow and extra material are freely accessible http://dx.doi.org/10.5281/zenodo.16596
+[^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" of the [CAA 2015 "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the particiapants for the comments in a nice and motivating athmosphere. The original paper, the slideshow and extra material are freely accessible. doi: [10.5281/zenodo.16596](http://dx.doi.org/10.5281/zenodo.16596).
 [^FreeBeer]: See the definition of the [Free Sofware Foundation](https://fsf.org)
+
+
+# Precedent Work
+The work of Benjamin Ducke is to my knowledge the only article about the relation of FOSS and archaeology (@Ducke2012). However as stated, his article does not focus on philosophical or social aspect of FOSS but on the problem of software development (572). After a definition of FOSS he focuses his attention on the problem of 'black boxes' (@Morin2012) and of sustainability due to the growing size of software. 
+
+In my take up on the side, I would like to focus narrower on the philosophical and social aspect of FOSS and to question the method that are established in archaeological research. 
+
+<!--
+# INTRODUCTION
+# Science is cumulative
+    ## Scientific community
+    ## FS and Free Science
+# Modifiability
+    ## Dynamism
+    ## FS Challenge the Power of Knowledge
+# FOSS and Archaeology
+    ## Reproducibility
+    ## Pedagogy
+    ## Blurring borders
+# Conclusion
+-->
+
+# Community endeavour
+    Shoulder of giants (Bernbeck and paper)
+    Community
 
 
 # Scientific community
@@ -176,3 +202,5 @@ In this presentation I wanted to explore the relation of FS with archaeology. It
  - It encourages innovation 
 
 Thank you very much for listening.  I would now like to give you the opportunity to ask questions.
+
+# References
