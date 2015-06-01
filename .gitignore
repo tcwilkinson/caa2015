@@ -11,3 +11,6 @@
 .cache
 .project
 .settings
+
+# Proper Debian
+.fuse*
