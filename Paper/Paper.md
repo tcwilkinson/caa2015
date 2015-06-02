@@ -1,5 +1,5 @@
 ---
-title: "Archaeological Science as Community Entreprise"
+title: "Archaeological Science as Community Enterprise"
 output:
   html_document:
     toc: yes
@@ -36,22 +36,20 @@ An unexpected or unintended outgrowth of the adoption of FOSS is the interaction
 
 
 # INTRODUCTION[^PaperOrigin]
-The Open Access movement rises a lot of sympathy among archaeologists, grows on a daily basis and is widely supported. On the other side, the Free Software movement, where the origins of the Open Access movement is to be situated, is not (yet) considered as so relevant. However, on going and growing debates about benefits of dynamism in publication available through new informations technologies challenge this position. Why should archaeologist consider the philosophy of Free Software with more awareness?
+The Open Access movement rises a lot of sympathy among archaeologists, grows on a daily basis and is widely supported. On the other side, the Free Software movement, where the origins of the Open Access movement is to be situated, is not considered as so relevant. However, on going and growing debates about benefits of dynamism in publication available through new informations technologies challenge this position. Why should archaeologist consider the philosophy of Free Software with more awareness?
 
 Even if Free Software is well established inside and outside academia, the advantages of Free software (that is "the 'free' as in 'free speech', and not the 'free' as in 'free beer' ") are not acknowledged[^FreeBeer]. Free software is in many cases (in the imaginary) understood as 'complicated', 'untrustable' or 'non as effective as proprietary software'. Software is a tool to answer a question and the emphasis is put on the results and not on the reuse neither of workflows nor of results.
 
-The aim of this paper is to give a brief overview of the crossing of Free Software with Archaeology. This closer look draw the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain a large access to research outcome but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research to sustain stronger research.
+The aim of this paper is to give a brief overview of the crossing of Free Software with Archaeology. This closer look draws the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain for large access to research outcome but the access to the data and the analysis could be done in a more transparent and reproducible way, that is closer to the ethic of scientific research. This will sustain a stronger research environment.
 
 Firstly, I will introduce the notion of Scientific Community and then I will concentrate on the similarities between Scientific Community and Free Software Community. In a third point, I will examine the concepts of reuse, modulation and reproducibility in archaeology which I will illustrate with two examples.
 
-[^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" of the [CAA 2015 "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the particiapants for the comments in a nice and motivating athmosphere. The original paper, the slideshow and extra material are freely accessible. doi: [10.5281/zenodo.16596](http://dx.doi.org/10.5281/zenodo.16596).
+[^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" of the [CAA 2015 "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the participants for the comments in a nice and motivating athmosphere. The original paper, the slideshow and extra material are freely accessible. doi: [10.5281/zenodo.16596](http://dx.doi.org/10.5281/zenodo.16596).
 [^FreeBeer]: See the definition of the [Free Sofware Foundation](https://fsf.org)
 
 
 # Precedent Work
-The work of Benjamin Ducke is to my knowledge the only article about the relation of FOSS and archaeology (@Ducke2012). However as stated, his article does not focus on philosophical or social aspect of FOSS but on the problem of software development (572). After a definition of FOSS he focuses his attention on the problem of 'black boxes' (@Morin2012) and of sustainability due to the growing size of software. 
-
-In my take up on the side, I would like to focus narrower on the philosophical and social aspect of FOSS and to question the method that are established in archaeological research. 
+The paper of Benjamin Ducke is, to my knowledge, the only article about the relation of FOSS and Archaeology (@Ducke2012). He focuses his attention on the problem of 'black boxes' (@Morin2012) and of sustainability for the development of archaeological software. However as stated, his article does not focus on philosophical or social aspect of FOSS. In my take up, I would like to focus narrower on this problem and to question the methods that are established in archaeological research. 
 
 <!--
 # INTRODUCTION
@@ -75,21 +73,10 @@ In my take up on the side, I would like to focus narrower on the philosophical a
 
 # Scientific community
 
-  Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. Matt Might chose to represent   human knowledge as a circle in his webcomic  "what is a PhD". New knowledge (like a PhD) should extend the boundary of knowledge.   
-  
-![Representation of Knowledge after Matt Might](Images/PhDKnowledge.012-Inv.png)
-<footer class="source">Image: [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/)  |  CC BY-NC 2.5 </footer>
+Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. In this process, the scientific community brings different points of views. This make the scientific knowledge accumulating and becoming "stable" faster[^stable knowledge]. Scientists from diverse backgrounds bring many points of views to resolve scientific problems, they choose to investigate different questions, or they may approach the same question in different ways. Science benefits from practitioners with diverse beliefs, backgrounds, and values to check out the biases. Quickly summarised the scientific community serves three functions. Firstly it's a pool of inspiration: interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. Secondly it's a motivating force for recognition and respect from peers.Thirdly scientific community control the quality of scientific research by scrutinising the work of other. It's a system of checks and balances that assures that claims are not fraudulent. It's the communication and the open process inside the community that make it stronger. It's not the claim of a unique researcher that make science strong and reliable but true scrutiny and critics of the peers(@Fanelli2013). 
 
-In this process, the scientific community brings different points of views. This make the scientific knowledge accumulating and becoming "stable" faster. (I choose the word "stable knowledge" to avoid "truth" in reference to the process of establishing a fact (I refer here to the work of Bruno Latour and others). Scientists from diverse backgrounds bring many points of views to resolve scientific problems, they choose to investigate different questions, or they may approach the same question in different ways.
-  
-  A diverse community invigorates problem solving and generates new research methods, explanations, ideas and sheds new light on problems. Science benefits from practitioners with diverse beliefs, backgrounds, and values to check out the biases.
 
-![Self-portrait of a Macaca Nigra](Images/MacacaNigraSelfPortrait.jpg)
-<footer class="source">Image: [Self-portrait of a Macaca Nigra](http://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait.jpg)   |  CC0 1.0 </footer>
-
-Quickly summarised the Scientific community serves three functions. Firstly it's a pool of inspiration: interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. Secondly it's a motivating force for recognition and respect from peers.Thirdly scientific community control the quality of scientific research by scrutinising the work of other. It's a system of checks and balances that assures that claims are not fraudulent
-
-It's the communication and the open process inside the community that make it stronger. It's not the claim of a unique researcher that make science strong and reliable but true scrutiny and critics of the peers. 
+[^stable knowledge]: "Stable knowledge" to avoid "truth" in reference to the process of establishing a fact. Latour
 
 
 
