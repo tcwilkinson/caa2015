@@ -1,5 +1,5 @@
 ---
-title: "Archaeological Science as Community Enterprise"
+title: "Archaeology as Community Entreprise"
 output:
   html_document:
     toc: yes
@@ -43,13 +43,13 @@ Even if Free Software is well established inside and outside academia, the advan
 The aim of this paper is to give a brief overview of the crossing of Free Software with Archaeology. This closer look draws the attention on changes in informations technologies that question knowledge dissemination. Not only Open Access is important to sustain for large access to research outcome but the access to the data and the analysis should be done in a transparent and reproducible way, that is closer to the ethic of scientific research. This will sustain a stronger research environment. Firstly, I will introduce the notion of Scientific Community and then I will concentrate on the similarities between Scientific Community and Free Software Community. In a third point, I will examine the concepts of reuse, modulation and reproducibility in archaeology which I will illustrate with two examples.
 
 
-[^Academia]: [academia.edu](http://academia.edu) is free to use but it is not free. There is no API, which would have made possible a queries of the growth of papers tagged with #Archaeology during the last years to assert the last sentence.
+[^Academia]: [academia.edu](http://academia.edu) is « free to use » but it is not free. The software runnings the site are unknown and there is no API, which would have made possible a queries of the growth of papers tagged with #Archaeology during the last years to assert the quoted sentence of the main text.
 [^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" of the [CAA 2015 "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the participants for the comments in a nice and motivating athmosphere. The original paper, the slideshow and extra material are freely accessible. doi: [10.5281/zenodo.16596](http://dx.doi.org/10.5281/zenodo.16596). A video was recorded by Douglas Mc... and published with recordingarchaeology.
 [^FreeBeer]: See the definition of the [Free Sofware Foundation](https://fsf.org)
 
 
 # Precedent Work
-The paper of Benjamin Ducke is, to my knowledge, the only article about the relation of FOSS and Archaeology (@Ducke2012). He focuses the attention on the problem of 'black boxes' (@Morin2012) and of sustainability for the development of archaeological software. However as stated, his article does not focus on philosophical or social aspect of FOSS. In my take up, I would like to focus narrower on this problem, the problem of access of data question the methods that are established in archaeological research. 
+The paper of Benjamin Ducke is, to my knowledge, the only article about the relation of Free and Open Source Software and Archaeology (@Ducke2012). He focuses the attention on the problem of 'black boxes' (@Morin2012) and of sustainability for the development of archaeological software. I base my developpement on his paper for the definition of Free Software. However as stated, his article does not focus on philosophical or social aspect of Free Software. In my take up, I would like to focus narrower on these problems and how access ta data questions the methods established in archaeological research. 
 
 <!--
 # INTRODUCTION
@@ -66,14 +66,12 @@ The paper of Benjamin Ducke is, to my knowledge, the only article about the rela
 # Conclusion
 -->
 
-# Community endeavour
-    Shoulder of giants (Bernbeck and paper)
-    Community
-
 
 # Scientific community
 
-Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. In this process, the scientific community brings different points of views,  questions and differente ways to resolve same problem. The community is a pool of inspiration: interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. This make the scientific knowledge accumulating and becoming "stable" faster[^stable knowledge].  The scientific community is a motivating force for recognition and respect from peers and control the quality of scientific research by scrutinising the work of other. It's a system of checks and balances that assures that claims are not fraudulent. It's the communication and the open process inside the community that make it stronger. It's not the claim of a unique researcher that make science strong and reliable but true scrutiny and critics of the peers(@Fanelli2013). 
+Science is cumulative even if is not clear how exactly scientific knowledge accumulates. In any case it is a community endeavour. In this process, the scientific community brings different points of views, diffrent questions and different ways to resolve same problem. The community is a pool of inspiration: interactions encourage innovation and spark ideas about new lines of evidence, new applications, new questions, and alternate explanations. The (reactif, dense, big) interaction of the Scientific community make the scientific knowledge accumulating and becoming "stable" faster[^stable knowledge].  
+
+The scientific community is a motivating force for recognition and respect from peers and control the quality of scientific research by scrutinising the work of other. It's a system of checks and balances that assures that claims are not fraudulent. It's the communication and the open process inside the community that make it stronger. It's not the claim of a unique researcher that make science strong and reliable but true scrutiny and critics of the peers(@Fanelli2013). 
 
 
 [^stable knowledge]: "Stable knowledge" to avoid "truth" in reference to the process of establishing a fact. (@Latour1979)
@@ -82,41 +80,35 @@ Science is cumulative even if is not clear how exactly scientific knowledge accu
 
 
 
-# FS and Free Science
+# Free Software and Science
 
-Free Software shares a lot of characteristics with science: both have
+Free Software shares a lot of characteristics with science. Both have scrutiny and cumulative knowledge that can be seen in process like peer reviewing, open data subject to validation and replication. There is a strong culture of credit, civility, reputation and communication
 
- - Scrutiny and cumulative knowledge that can be seen in process like peer reviewing, open data subject to validation and replication
- - In FS there is a strong culture of credit, civility, reputation and communication
+The motivations to do Science or Free Software is in many aspects similar: it's a based on the reputation you earn with your work and there is in both cases an ethic to attribute the work (Kelty 2001). In this process of credit and reputation, researcher make their work available to others and researcher become identified with their work. Citations accredit reuse of ideas, concepts (or code). In Free Software or Science differences are made according to the status of the contribution (author, contributor, maintainer). They are based on same principles of cumulative knowledge and its reuse, mixing and modulation.
 
-The motivations to do Science or FS is often seen to be in many aspects similar: it's a based on the reputation you earn with your work and there is in both cases an ethic to attribute the work (Kelty 2001). In this process of credit and reputation, researcher make their work available to others and researcher become  identified with their work. Citation then accredit reuse of ideas, concepts  or code. In the FS movement code is published and accredited as author or contributor when the code it's used, reused or modified. Free Software and Science are based on the same principle of cumulative knowledge, reuse, mixing and modulation.
+But similarities between Free Software and Science should not hide the differences. Dissimilarities and "good characteristic of Free Softwre" challenge in return, what is taken for granted in science .
 
-But similarities between Free Software and Science should not hide the differences. The similarities make easier to compare both communities, to better understand them and the ways they are structured. Then, it's the dissimilarities that help better understand how they work. FS impresses  due to the size of projects, indirect cooperation with people all around the world, the way projects are developed, maintained, contested, and how ideas are exchanged. These dissimilarities challenge in return, what is taken for granted in science . 
-
-![Opening Science](Images/OpeningScience.png)
-<footer class="source">Image: [Bartling et al. 2014, Opening Science (Cover)](http://dx.doi.org/10.1007/978-3-319-00026-8)  |  CC BY-NC 3.0 </footer>  
 
 # Modifiability
 
-The concept of modifiability is without any doubt the most fascinating concept among the dissimilarities between Science and Free Software (Kelty 2008: 12). Books and articles have acclimatised science making with stable knowledge. The impression given by books or articles is that you have a definitive version  in your hands (Archaeologists speak mostly of "end publication" to contrast with "on going report"). But FS with practices like forking, new versioning, cloning, constant evolution of source code questions this concept. 
+The concept of modifiability is without any doubt the most fascinating concept among the dissimilarities between Science and Free Software (Kelty 2008: 12). Books and articles have acclimatised science making with stable knowledge. The impression given by books or articles is that of a definitive version, "palbable" under the fingers. But Free Software with practices like forking, new versioning, cloning, constant evolution of source code questions this concept. Every "newly avaible" operating system contains older pieces of software, sometimes as straight forward as a "copy-paste".
 
-On top of this drawing, a representation of the current way of doing research with a stable knowledge: results are only used, when it is stable. At the bottom a prospect on how software development looks like and how science could be made. The process of sharing knowledge and reusing it is becoming more dynamic. However this poses a question: If the content does not need to be stable any more and are uses like Free Software, "how should the authority, stability and reliability of knowledge be assessed" (Kelty 2008:300)?  In this sense FS challenges the 'Power of Knowledge'[^PowerOfKnowledge].
+On top of the drawing (), a representation of the current way of doing research with a stable knowledge: results are only used, when they are stable. At the bottom a prospect on how software development looks like and how science could be made. The process of sharing knowledge and reusing it is becoming more dynamic. However this poses a question. If the content does not need any more to be stable and it is uses like Free Software, "how should the authority, stability and reliability of knowledge be assessed" (@Kelty2008:300)?  In this sense FS challenges the 'Power of Knowledge'[^PowerOfKnowledge].
 
 [^PowerOfKnowledge]: I refer to the expression of C. Kelty is his book, Two Bits [@Kelty2008]
 
 ![Modifiability of knowledge](Images/ResearchCulture-Inv.png)
 <footer class="source">Image: [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
-# FS Challenge the Power of Knowledge 
+# FS challenges the Power of Knowledge 
 
+New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". Now professors explained how to use it scientifically and foundator of Wikipedia reviece a PhD honoras causis[Make your PhD]
 
-New practices of publication with the appearance of new information technologies render the knowledge more dynamic (@Vinck2014). Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". For example, as I started as undergraduate, professors were more or less forbidding to use Wikipedia, but some years after the same professors explained how to use it scientifically, and some years after they started to contribute to Wikipedia. 
+Even if there is a growing discussion on dynamic publication there are still few examples of workflows in academia.  The model proposed by Kansa and other -- "Push and Publish"-- has a nice future for him "beaux jours devant lui" (@Kansa2014). In this model, data are published on-line and may be updated, completed, corrected, cloned after the first online release.
 
-Wikipedia reveals how complex the system of evaluation of knowledge is. FS shows how this system of evaluation is now challenged. Even if there is a growing discussion on dynamic publication there are still few examples of workflow in academia.  However some model have been proposed, like the "Push and Publish" workflow proposed by Eric Kansa (@Kansa2014).
+By looking at the practice of Free Software, it is easier to ask how authority is established and question the finality of publication. Contents in constant dynamic, the biggest strength in Free Software, gives the opportunity to better challenge the stability of science. Most importantly, if the focus is not only on the results, the focus of stable knowledge, then Free Software moves the attention to how evidences are established and broads (élargit) the attention consequently on the results but on the workflow and on the data too. 
 
-FS asks how authority is established and question the finality of publication. Contents in constant dynamic, the biggest strength in FS, gives the opportunity to better challenge the stability of science. Most importantly, if the focus is not only on the results (stable knowledge), then FS moves the attention to how evidences are established and focuses consequently on the workflow. 
-
-Here is the point where, I will turn back to archaeology: I tackled about FS to see how it influenced science making, to expose precisely how FS attracts the attention not only on the results but on the 'how to'. FS is the only way to reconcile the process of making science with the results. It's with this sense in mind, that I will look at reproducibility in archaeology.
+I tackled about FS to see how FS attracts the attention not only on the results but on the 'how to'. FS is the only way to reconcile digitally the ethic of science and the establishing of facts. It's with this sense in mind, that I will look at reproducibility in archaeology.
 
 ![Dynamic Publication](Images/DynamicPublicationFormats6-Inv.png)
 <footer class="source">Image: [Heller et al. 2014, Opening Science (fig. 5, 200)](http://dx.doi.org/10.1007/978-3-319-00026-8_13)  |  CC BY-NC 3.0 </footer>
