@@ -1,16 +1,2 @@
-# Ignore files
-
-# Backup files
-*~
-*.bak
-
-# Rhistory
-*.Rhistory
-
-# OS or Editor folders
-.cache
-.project
-.settings
-
-# Proper Debian
-.fuse*
+Paper/CAA2015*.pdf
+.Rhistory
