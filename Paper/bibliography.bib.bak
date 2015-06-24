@@ -1,0 +1,266 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Ducke2012,
+  Title                    = {Natives of a connected world: free and open source software in archaeology},
+  Author                   = {Benjamin Ducke},
+  Journal                  = {World Archaeology},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {571-579},
+  Volume                   = {44},
+
+  Doi                      = {10.1080/00438243.2012.743259},
+  Eprint                   = { http://dx.doi.org/10.1080/00438243.2012.743259 },
+  Owner                    = {nebi},
+  Timestamp                = {2015.04.12}
+}
+
+@Article{Fanelli2013,
+  Title                    = {Redefine misconduct as distorted reporting},
+  Author                   = {Daniele Fanelli},
+  Journal                  = {Nature},
+  Year                     = {2013},
+  Pages                    = {149},
+  Volume                   = {494},
+
+  Doi                      = {10.1038/494149a},
+  Owner                    = {nebi},
+  Timestamp                = {2015.02.12}
+}
+
+@Article{Hafer2009,
+  Title                    = {Assessing Open Source Software As a Scholarly Contribution},
+  Author                   = {Hafer, Lou and Kirkpatrick, Arthur E.},
+  Journal                  = {Commun. ACM},
+  Year                     = {2009},
+  Number                   = {12},
+  Pages                    = {126--129},
+  Volume                   = {52},
+
+  Acmid                    = {1610285},
+  Address                  = {New York, NY, USA},
+  Doi                      = {10.1145/1610252.1610285},
+  ISSN                     = {0001-0782},
+  Issue_date               = {December 2009},
+  Numpages                 = {4},
+  Owner                    = {nebi},
+  Publisher                = {ACM},
+  Timestamp                = {2015.04.13},
+  Url                      = {http://doi.acm.org/10.1145/1610252.1610285}
+}
+
+@InCollection{Heller2014,
+  Title                    = {Dynamic Publication Formats and Collaborative Authoring},
+  Author                   = {Heller, Lambert and The, Ronald and Bartling, Sönke},
+  Booktitle                = {Opening Science},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2014},
+  Editor                   = {Bartling, Sönke and Friesike, Sascha},
+  Pages                    = {191-211},
+
+  Doi                      = {10.1007/978-3-319-00026-8_13},
+  ISBN                     = {978-3-319-00025-1},
+  Language                 = {English},
+  Owner                    = {nebi},
+  Timestamp                = {2015.03.16},
+  Url                      = {http://dx.doi.org/10.1007/978-3-319-00026-8_13}
+}
+
+@Article{Kansa2014,
+  Title                    = {Publishing and Pushing: Mixing Models for Communicating Research Data in Archaeology},
+  Author                   = {Eric C. Kansa and Sarah Whitcher Kansa and Benjamin Arbuckle},
+  Journal                  = {International Journal of Digital Curation},
+  Year                     = {2014},
+  Pages                    = {57-70},
+  Volume                   = {9.1},
+
+  Doi                      = {10.2218/ijdc.v9i1.301},
+  Owner                    = {usr},
+  Timestamp                = {2014.06.23}
+}
+
+@Book{Kelty2008,
+  Title                    = {Two bits},
+  Author                   = {Kelty, Christopher M.},
+  Publisher                = {Duke University Press},
+  Year                     = {2008},
+
+  Address                  = {Durham},
+  Series                   = {Experimental futures},
+
+  ISBN                     = {978-0-8223-4242-7 ; 978-0-8223-4264-9},
+  Language                 = {eng},
+  Owner                    = {nebi},
+  Review                   = {Free Software is, however, public; it is about making things public and freely available to everyone—a “commons,”
+
+
+Introduction
+What is FS: "Free Software is a set of practices for the distributed collabora-
+tive creation of software source code that is then made openly and
+freely available through a clever, unconventional use of copyright law" 
+
+"Since about 1998, the practices and ideas of Free Software have extended into new realms of life
+and creativity: from software to music and film to science, engineer-
+ing, and education; from national politics of intellectual property
+to global debates about civil society; from UNIX to Mac OS X and
+Windows; from medical records and databases to international dis-
+ease monitoring and synthetic biology; from Open Source to open
+access. Free Software is no longer only about software—it exempli-
+fies a more general reorientation of power and knowledge."
+
+"I introduce the concept of a “recursive public.” A recursive public is a public that is
+vitally concerned with the material and practical maintenance and modi-
+fication of the technical, legal, practical, and conceptual means of its
+own existence as a public; it is a collective independent of other forms of
+constituted power and is capable of speaking to existing forms of power
+through the production of actually existing alternatives."
+
+Chapter 1 "Geeks and Recursive Publics"
+Author definde recursive (activities of making, maintaining, and modifying software and network ; depth of it) and geek.
+The settle to explain the contour of the culture of FS "If intuition can lead one from geek to geek, from start-up to night-
+club, and across countries, languages, and professional orienta-
+tions, it can only be due to a shared set of ideas of how things fit
+together in the world. These ideas might be “cultural”"
+Refers to Taylor and speak of the "social imaginary [...] The concept of a social imaginary also avoids the conundrums
+created by the concept of “ideology” and its distinction from mate-
+rial practice. " with discussion around Ducoeur, Taylor, Geertz.
+The explore the concept of Community and Public of geek
+-> Illustration of the points with a message of Jone Bones about Napster},
+  Subtitle                 = {The Cultural Significance of Free Software},
+  Timestamp                = {2015.03.16},
+  Url                      = {http://twobits.net/pub/Kelty-TwoBits.pdf}
+}
+
+@Article{Kelty2001,
+  Title                    = {Free software/free science},
+  Author                   = {Christopher M. Kelty},
+  Journal                  = {First Monday},
+  Year                     = {2001},
+  Number                   = {12},
+  Volume                   = {6},
+
+  Abstract                 = {None Available.},
+  ISSN                     = {13960466},
+  Owner                    = {nebi},
+  Timestamp                = {2015.03.16},
+  Url                      = {http://pear.accc.uic.edu/ojs/index.php/fm/article/view/902}
+}
+
+@Book{Latour1987,
+  Title                    = {Science in Action: How to Follow Scientists and Engineers through Society},
+  Author                   = {Bruno Latour},
+  Publisher                = {Harvard University Press},
+  Year                     = {1987},
+
+  Address                  = {Cambridge, Mass},
+
+  Owner                    = {nebi},
+  Timestamp                = {2015.06.21}
+}
+
+@Book{Latour1979,
+  Title                    = {Laboratory Life: The Social Construction of Scientific Facts},
+  Author                   = {Bruno Latour and Steven Woolgar},
+  Publisher                = {Sage},
+  Year                     = {1979},
+
+  Address                  = {Beverly Hills, Calif.},
+
+  Owner                    = {nebi},
+  Timestamp                = {2015.06.21}
+}
+
+@Electronic{Marwick2015,
+  Title                    = {Doing quantitative archaeology with open source software},
+  Author                   = {Ben Marwick},
+  Month                    = {April},
+  Url                      = {http://www.software.ac.uk/blog/2015-04-24-archaeology-open-source-software-its-getting-easier},
+  Year                     = {2015},
+
+  Owner                    = {Néhémie Strupler},
+  Timestamp                = {2015.06.22}
+}
+
+@Electronic{Marwick2014,
+  Title                    = {Reproducible Research: A view from the social sciences},
+  Author                   = {Ben Marwick},
+  Url                      = {http://benmarwick.github.io/UW-eScience-reproducibility-social-sciences},
+  Year                     = {2014},
+
+  Owner                    = {nebi},
+  Timestamp                = {2015.03.23}
+}
+
+@Article{Morin2012,
+  Title                    = {Shining Light into Black Boxes},
+  Author                   = {Morin, A. and Urban, J. and Adams, P. D. and Foster, I. and Sali, A. and Baker, D. and Sliz, P.},
+  Journal                  = {Science},
+  Year                     = {2012},
+  Pages                    = {159–160},
+  Volume                   = {336(6078)},
+
+  Doi                      = {10.1126/science.1218263},
+  Owner                    = {nebi},
+  Timestamp                = {2015.04.08}
+}
+
+@Article{Vinck2014,
+  Title                    = {Les humanités délivrées. Savoir et culture réinventés hors du livre},
+  Author                   = {Vinck, Dominique and Clivaz, Claire},
+  Journal                  = {Revue d'anthropologie des connaissances},
+  Year                     = {2014},
+  Pages                    = {681-704},
+  Volume                   = {8.4},
+
+  Doi                      = {10.3917/rac.025.0681},
+  Owner                    = {nebi},
+  Timestamp                = {2015.02.09}
+}
+
+@InCollection{Xia2011,
+  Title                    = {Open access for archaeological literature: a manager's perspective},
+  Author                   = {Jingfeng Xia},
+  Booktitle                = {Archaeology 2.0: New Approaches to Communication and Collaboration Location},
+  Publisher                = {Cotsen Institute of Archaeology},
+  Year                     = {2011},
+  Editor                   = {Kansa, Eric C. and Kansa, Sarah Whitcher and Watrall, Ethan},
+  Pages                    = {233-249},
+
+  Owner                    = {nebi},
+  Timestamp                = {2015.04.14},
+  Url                      = {https://escholarship.org/uc/item/1r6137tb}
+}
+
+@Book{Kansa2011,
+  Title                    = {Archaeology 2.0: New Approaches to Communication and Collaboration Location},
+  Editor                   = {Kansa, Eric C. and Kansa, Sarah Whitcher and Watrall, Ethan},
+  Publisher                = {Cotsen Institute of Archaeology},
+  Year                     = {2011},
+
+  Owner                    = {nebi},
+  Timestamp                = {2015.04.14},
+  Url                      = {https://escholarship.org/uc/item/1r6137tb}
+}
+
+@Book{Sonke2014,
+  Title                    = {Opening Science. The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing},
+  Editor                   = {Sönke, Bartling and Sascha Friesike},
+  Publisher                = {Springer International Publishing},
+  Year                     = {2014},
+
+  Doi                      = {10.1007/978-3-319-00026-8},
+  Keywords                 = {Open Data},
+  Owner                    = {usr},
+  Timestamp                = {2014.10.14}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
