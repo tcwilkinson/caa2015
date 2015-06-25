@@ -86,7 +86,7 @@ The concept of modifiability is without any doubt the most fascinating concept a
 
 On top of the drawing [Figure1], a representation of the current way of doing research with stable knowledge: results are only used, when they are stable. At the bottom a prospect on how software development looks like and how science could be made. The process of sharing and reusing  knowledge is becoming more dynamic. However this poses a question. If the content does not need any more to be stable and it is used like Free Software, "how should the authority, stability and reliability of knowledge be assessed" [@Kelty2008: 300]?  In this sense Free Software challenges the "Power of Knowledge"[^PowerOfKnowledge].
 
-[^PowerOfKnowledge]: I refer to the expression of C. Kelty is his book, Two Bits [-@Kelty2008]
+[^PowerOfKnowledge]: I refer to the expression of C. Kelty in his book, Two Bits [-@Kelty2008]
 
 
 
@@ -96,11 +96,11 @@ On top of the drawing [Figure1], a representation of the current way of doing re
 
 # Free Software challenges the Power of Knowledge 
 
-New practices of publication with the appearance of new information technologies render the knowledge more dynamic [@Vinck2014]. Wikipedia is the most famous example with content that can be updated, changed, deleted, copied, forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". Now academics explain how to use it scientifically.
+New practices of publication with the appearance of new information technologies render the knowledge more dynamic [@Vinck2014]. Wikipedia is the most famous example with content that can be updated, changed, deleted, copied or forked at any time by anyone. The last 10 years have seen a complete revaluation of Wikipedia at the University. 10 years ago, as I saw it in France, it was mostly rejected as "untrustable source". Now academics explain how to use it scientifically.
 
-Even if there is a growing discussion on dynamic publication there are still few examples of work-flows in academia.  The model proposed by Kansa and others -- *Push and Publish* -- will certainly have a bright future [@Kansa2014]. In this model, data are published on-line and may be updated, completed, corrected, cloned after the first online release. Repositories and digital archiving enable new dissemination methods.
+Even if there is a growing discussion on publication of dynamic content there are still few examples of work-flows in academia.  The model proposed by Kansa and others -- *Push and Publish* -- will certainly have a bright future [@Kansa2014]. In this model, data are published on-line and may be updated, completed, corrected, cloned after the first online release. Repositories and digital archiving enable new dissemination methods.
 
-By looking at the practice of Free Software, it is easier to ask how authority is established and question the finality of publication. Free Software focus not only on the results (the software) but unify operation and the possibility to control, improve and reuse. Free Software allows to computational archaeology not only to concentrate on the results but broaden the attention consequently on how evidences are reached. This is the only way to reconcile  the ethic of science and the establishing of (computational) facts. It's with this sense in mind, that I will turn to the problem of reproducibility for computational archaeology.
+By looking at the practice of Free Software, it is easier to ask how authority is established and question the finality of publications. Free Software focus esnot only on the results (the software) but unifies operations and the possibility of control, improvement and reuse. Free Software allows computational archaeology not only to concentrate on the results but broaden the attention consequently on how evidences are reached. This is the only way to reconcile  the ethic of science and the establishing of (computational) facts. It's with this sense in mind, that I will turn to the problem of reproducibility for computational archaeology.
 
 
 # Reproducibility
@@ -110,16 +110,16 @@ Reproducibility allows anyone to start from the same data, check all the process
 ![Research Pipeline](Images/ResearchPipeline-Inv.png)
 <footer class="source">[Figure2] Research Pipline (after ideas from Roger Peng and Kieran Healy)  | N. Strupler  CC BY-NC 4.0 </footer>  
 
-For computational research, best practices permit to knit together data, code, and results trough scripting [@Marwick2015]. Reproducibility must be attain to adhere to the ethic of science. Moreover reproducibility has a huge potential for empirical research, like archaeology. Reproducibility is important in order to reuse and maintain data up to date. If, as shown in the *Published and Push* model, data are updated, then the analysis can be quickly updated, and therefore results, do not need to stay in the (outdated) state as published.
+For computational research, best practices permit to knit together data, code, and results trough scripting [@Marwick2015]. Reproducibility must be attained to adhere to the ethic of science. Moreover reproducibility has a huge potential for empirical research, like archaeology. Reproducibility is important in order to reuse and maintain data up to date. If, as shown in the *Published and Push* model, data are updated, then the analysis can be quickly updated, and therefore results, do not need to stay in the (outdated) state as published.
 
-Reproducibility helps to cast the research in modules. Bits of research based on code can be transformed and reuse for similar project or build upon for new project. The modularity of code impacts on two levels. Firstly, open and reproducible archaeology makes resources easy available as paradigmatic pedagogical object. Hands-on workshops, modulations of research, testing of new hypothesis can be done in teaching environments with a direct, DIY approach. Secondly, the modularity of Free Software ease the blurring of academic borders in unpredictable ways. By providing a common language, Free Software creates new transversal communities that makes science stronger. 
+Reproducibility helps to cast the research in modules. Bits of research based on code can be transformed and reused for similar projects or build upon for new projects. The modularity of code impacts on two levels. Firstly, open and reproducible archaeology makes resources easy available as paradigmatic pedagogical object. Hands-on workshops, modulations of research, testing of new hypothesis can be done in teaching environments with a direct, DIY approach. Secondly, the modularity of Free Software eases the blurring of academic borders in unpredictable ways. By providing a common language, Free Software creates new transversal communities that make science stronger. 
 
 [^SAA2015]: For example, see the meeting during the SAA 2015 in San Francisco, "Electronic Symposium Open Methods in Archaeology : How to Encourage Reproducible Research as the Default Practice?" organised by Ben Marwick, Mark Lake and Andrew Bevan. 
 
 
 # Conclusion
 
-Free Software challenges the authority of science and provides a mean to transform computational archaeology by questioning transmission and reuse of research. Free Software coupled with reproducibility by means of scripting make all the research pipeline available to the scrutiny of the community and reconciles together data, process and results. Making the complete research  available, has the potential to change computational archaeology in a more open and robust research environment.
+Free Software challenges the authority of science and provides a mean to transform computational archaeology by questioning transmission and reuse of research. Free Software coupled with reproducibility by means of scripting makes all the research pipeline available to the scrutiny of the community and reconciles together data, processes and results. Making the complete research  available, has the potential to change computational archaeology into a more open and robust research environment.
 
 ---
 nocite: | 
