@@ -77,7 +77,7 @@ The concept of modifiability is without any doubt the most fascinating concept a
 
 <!-- Figure 1 -->
 ![Modifiability of knowledge](Images/ResearchCulture.png)
-<footer class="source">[Figure1] [Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
+<footer class="source">[Figure1] [Open and wide communication of negative as well as positive findings. From Bartling et al. 2014, Opening Science (fig. 3, 10)](http://dx.doi.org/10.1007/978-3-319-00026-8_1)  |  CC BY-NC 3.0 </footer>  
 
 
 
@@ -98,12 +98,12 @@ By looking at the practice of Free Software, it is easier to ask how authority i
 
 # Reproducibility
 
-Reproducibility allows anyone to start from the same data, check all the processes in order to verify the results. The complete process, from ideas and data to the publication as been termed as research pipeline [figure 2]. In Archaeology there is no culture of exchanging code for reproducibility until now, even if it is changing[^SAA2015]. If we turn back to the definition of science, however, reproducibility and sharing of code is even *sine qua non* for science, to permit the community to scrutinise the work. It's the only way to stick with a robust exposition of facts. "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
+Reproducibility allows anyone to start from the same data, check all the processes in order to verify the results. The complete process, from ideas and data to the publication as been termed as research pipeline [figure 2]. In Archaeology there is no culture of exchanging code for reproducibility until now, even if it is changing[^SAA2015]. If we turn back to the definition of science, however, reproducibility and sharing of code are even *sine qua non* for science, to permit the community to scrutinise the work. It's the only way to stick with a robust exposition of facts. "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
 
 
 <!-- Figure 2 -->
 ![Research Pipeline](Images/ResearchPipeline.png)
-<footer class="source">[Figure2] Research Pipline (after ideas from Roger Peng and Kieran Healy)  | N. Strupler  CC BY-NC 4.0 </footer>  
+<footer class="source">[Figure2] Research Pipeline (after ideas from Roger Peng and Kieran Healy)  | N. Strupler  CC BY-NC 4.0 </footer>  
 
 For computational research, best practices permit to knit together data, code, and results trough scripting [@Marwick2015]. Reproducibility must be attained to adhere to the ethic of science. Moreover reproducibility has a huge potential for empirical research, like archaeology. Reproducibility is important in order to reuse and maintain data up to date. If, as shown in the *Published and Push* model, data are updated, then the analysis can be quickly updated, and therefore results, do not need to stay in the (outdated) state as published.
 
