@@ -30,11 +30,11 @@ To address methodological and theoretical issues in archaeology computational (a
 
 
 # Introduction[^PaperOrigin]
-The Open Access movement rises a lot of sympathy among archaeologists. Academia.edu has grown to one of the biggest repositories for archaeological papers « freely » available, cross cutting boundaries of traditional reading circles[^Academia]. Everyone understands some of the benefits of this availability. On the other side, the Free Software movement, where the origins of the Open Access movement is to be situated, is not considered as relevant. However, on going and growing debates about benefits of dynamism in publication available through new information technologies challenge this position. Why should archaeologists consider the philosophy of Free Software with more awareness?
+The Open Access movement raises a lot of sympathy among archaeologists. Academia.edu has grown to one of the biggest repositories for archaeological papers « freely » available, cross cutting boundaries of traditional reading circles[^Academia]. Everyone understands some of the benefits of this availability. On the other side, the Free Software movement, where the origin of the Open Access movement is to be situated, is not considered as relevant. However, on-going and growing debates about benefits of dynamism in publication available through new information technologies challenge this position. Why should archaeologists consider the philosophy of Free Software with more awareness?
 
 Even if Free Software is well established inside and outside academia, the advantages of Free software (that is "the 'free' as in 'free speech', and not the 'free' as in 'free beer' ") are not acknowledged[^FreeBeer]. Free software is in many cases (in the imaginary) understood as complicated, untrustable or no as effective as proprietary software. Generally software is considered as a tool to answer questions and the emphasis is put on the results and not on the reuse neither of work-flows nor of the collected data.
 
-The aim of this paper is to give a brief overview of the intersection of Free Software with computational Archaeology. This closer look draws the attention on changes in information technologies that question knowledge dissemination. Not only Open Access is important to sustain for large access to research outcome but the access to the data and the analysis should be done in transparent and reproducible ways, that are closer to the ethic of scientific research. This will sustain a stronger research environment. 
+The aim of this paper is to give a brief overview of the intersection of Free Software with computational Archaeology. This closer look draws the attention on changes in information technologies that question knowledge dissemination. Not only Open Access is important to sustain for large access to research outcome but the access to the data and the analysis should be done in transparent and reproducible ways, which are closer to the ethic of scientific research. This will sustain a stronger research environment. 
 
 
 
@@ -63,7 +63,7 @@ The scientific community is a motivating force for recognition and respect from 
 
 Free Software shares a lot of characteristics with science. Both have scrutiny and cumulative knowledge, which can be seen in process like peer reviewing, open data subject to validation and replication. There is a strong culture of credit, civility, reputation and communication
 
-The motivations to do Science or Free Software is in many aspects similar: it's based on the reputation earned with published work and there is in both cases an ethic to attribute the work [@Kelty2001]. Researcher make their work available to others and citations accredit reuse of ideas, concepts or code. In Free Software or  in Science differences are made according to the status of the contribution (author, contributor, maintainer, etc.). Contributions are based on same principles of cumulative knowledge, its reuse, mixing and modulation.
+The motivations to do Science or Free Software are in many aspects similar: it's based on the reputation earned with published work and there is in both cases an ethic to attribute the work [@Kelty2001]. Researchers make their work available to others and citations accredit reuse of ideas, concepts or code. In Free Software or  in Science differences are made according to the status of the contribution (author, contributor, maintainer, etc.). Contributions are based on same principles of cumulative knowledge, its reuse, mixing and modulation.
 
 But similarities between Free Software and Science should not hide differences. Dissimilarities, specifically Free Software's assets challenge in return, what is taken for granted in Science.
 
@@ -93,19 +93,19 @@ New practices of publication with the appearance of new information technologies
 
 Even if there is a growing discussion on publication of dynamic content there are still few examples of work-flows in academia.  The model proposed by Kansa and others -- *Push and Publish* -- will certainly have a bright future [@Kansa2014]. In this model, data are published on-line and may be updated, completed, corrected, cloned after the first online release. Repositories and digital archiving enable new dissemination methods.
 
-By looking at the practice of Free Software, it is easier to ask how authority is established and question the finality of publications. Free Software focuses not only on the results (the software) but unifies operations and the possibility of control, improvement and reuse. Free Software allows computational archaeology not only to concentrate on the results but broaden the attention consequently on how evidences are reached. This is the only way to reconcile  the ethic of science and the establishing of (computational) facts. It's with this sense in mind, that I will turn to the problem of reproducibility for computational archaeology.
+By looking at the practice of Free Software, it is easier to ask how authority is established and question the finality of publications. Free Software focuses not only on the results (the software) but unifies operations and the possibility of control, improvement and reuse. Free Software allows computational archaeology not only to concentrate on the results but broaden the attention consequently on how evidences are reached. This is the only way to reconcile  the ethic of science and the establishing of (computational) facts. It's with this sense in mind that I will turn to the problem of reproducibility for computational archaeology.
 
 
 # Reproducibility
 
-Reproducibility allows anyone to start from the same data, check all the processes in order to verify the results. The complete process, from ideas and data to the publication as been termed as research pipeline [figure 2]. In Archaeology there is no culture of exchanging code for reproducibility until now, even if it is changing[^SAA2015]. If we turn back to the definition of science, however, reproducibility and sharing of code are even *sine qua non* for science, to permit the community to scrutinise the work. It's the only way to stick with a robust exposition of facts. "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
+Reproducibility allows anyone to start from the same data, check all the processes in order to verify the results. The complete process, from ideas and data to the publication has been termed as research pipeline [figure 2]. In Archaeology there is no culture of exchanging code for reproducibility until now, even if it is changing[^SAA2015]. If we turn back to the definition of science, however, reproducibility and sharing of code are even *sine qua non* for science, to permit the community to scrutinise the work. It's the only way to stick with a robust exposition of facts. "We often forget that scientific knowledge is reliable not because scientists are more clever, objective or honest than other people, but because their claims are exposed to criticism and replication." [@Fanelli2013] 
 
 
 <!-- Figure 2 -->
 ![Research Pipeline](Images/ResearchPipeline.png)
 <footer class="source">[Figure2] Research Pipeline (after ideas from Roger Peng and Kieran Healy)  | N. Strupler  CC BY-NC 4.0 </footer>  
 
-For computational research, best practices permit to knit together data, code, and results trough scripting [@Marwick2015]. Reproducibility must be attained to adhere to the ethic of science. Moreover reproducibility has a huge potential for empirical research, like archaeology. Reproducibility is important in order to reuse and maintain data up to date. If, as shown in the *Published and Push* model, data are updated, then the analysis can be quickly updated, and therefore results, do not need to stay in the (outdated) state as published.
+For computational research, best practices permit to knit together data, code, and results through scripting [@Marwick2015]. Reproducibility must be attained to adhere to the ethic of science. Moreover reproducibility has a huge potential for empirical research, like archaeology. Reproducibility is important in order to reuse and maintain data up to date. If, as shown in the *Published and Push* model, data are updated, then the analysis can be quickly updated, and therefore results, do not need to stay in the (outdated) state as published.
 
 Reproducibility helps to cast the research in modules. Bits of research based on code can be transformed and reused for similar projects or build upon for new projects. The modularity of code impacts on two levels. Firstly, open and reproducible archaeology makes resources easy available as paradigmatic pedagogical object. Hands-on workshops, modulations of research, testing of new hypothesis can be done in teaching environments with a direct, **do it yourself** approach. Secondly, the modularity of Free Software eases the blurring of academic borders in unpredictable ways. By providing a common language, Free Software creates new transversal communities that make science stronger. 
 
@@ -114,7 +114,7 @@ Reproducibility helps to cast the research in modules. Bits of research based on
 
 # Conclusion
 
-Free Software challenges the authority of science and provides a mean to transform computational archaeology by questioning transmission and reuse of research. Free Software coupled with reproducibility by means of scripting makes all the research pipeline available to the scrutiny of the community and reconciles together data, processes and results. Making the complete research  available, has the potential to change computational archaeology into a more open and robust research environment.
+Free Software challenges the authority of science and provides a mean to transform computational archaeology by questioning transmission and reuse of research. Free Software coupled with reproducibility by means of scripting makes all the research pipeline available to the scrutiny of the community and reconciles together data, processes and results. Making the complete research  available has the potential to change computational archaeology into a more open and robust research environment.
 
 
 
@@ -122,15 +122,15 @@ Free Software challenges the authority of science and provides a mean to transfo
 
 [^PaperOrigin]: This paper is the output of a talk given during the session 10A "ArcheoFOSS: free/open source software and archaeological research, ten years later" at the [CAA 2015 conference "KEEP THE REVOLUTION GOING"](http://caaconference.org/). I am grateful to the organisers and to the participants for the comments in a nice and motivating atmosphere. The original paper, the slide-show and extra material are accessible online. DOI: [10.5281/zenodo.16596](http://dx.doi.org/10.5281/zenodo.16596). A video of the lecture was recorded by Doug Rocks-Macqueen and has been published under his project *Recording Archaeology*.
 
-[^Academia]: [academia.edu](http://academia.edu) is « free to use » but it is not free. There is no API, which would have enable a query of the growth of papers tagged with #Archaeology during the last years and consequently asserts the affirmation from the main text. Until now, it's just a guess ...
+[^Academia]: [academia.edu](http://academia.edu) is « free to use » but it is not free. There is no API, which would have enabled a query of the growth of papers tagged with #Archaeology during the last years and consequently asserts the affirmation from the main text. Until now, it's just a guess ...
 
-[^FreeBeer]: See the definition of the [Free Sofware Foundation](https://fsf.org)
+[^FreeBeer]: See the definition of the [Free Software Foundation](https://fsf.org)
 
 [^StableKnowledge]: "Stable knowledge" refers to the process of establishing a fact, among others @Latour1979.
 
 [^PowerOfKnowledge]: I refer to the expression of C. Kelty in his book, Two Bits [-@Kelty2008]
 
-[^SAA2015]: For example, see the meeting during the SAA 2015 in San Francisco, "Electronic Symposium Open Methods in Archaeology : How to Encourage Reproducible Research as the Default Practice?" organised by Ben Marwick, Mark Lake and Andrew Bevan. 
+[^SAA2015]: For example, see the meeting during the SAA 2015 in San Francisco, "Electronic Symposium Open Methods in Archaeology: How to Encourage Reproducible Research as the Default Practice?" organised by Ben Marwick, Mark Lake and Andrew Bevan. 
 
 
 ---
